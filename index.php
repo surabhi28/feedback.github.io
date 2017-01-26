@@ -15,9 +15,28 @@
     $(document).ready(function(){
     
         $('h1').animate({fontSize: '4em'}, "slow");
+        
+        $("#course").change(function(){
+     var selectedVal = $(this).val();
+
+    if(selectedVal == "B.Com")
+    {
+     $(".x").hide();
+     $(".y").show();
+    }
+    else
+    {
+      $(".y , .x").show();
+    }
+    
+  });
+       
    
      });
 </script> 
+
+
+
 </head>
 
 <body>
@@ -36,34 +55,34 @@
 
     <div class="form-group ">
        <div class="dropdown">
-       <select class="btn dropdown-toggle" data-toggle="dropdown">
+       <select class="btn dropdown-toggle" data-toggle="dropdown" id="course">
     <option selected disabled>COURSE</option>
-    <option>M.Tech</option>
-    <option>MCA</option>
-    <option>MBA(MS)</option>
-    <option>MBA(TA)</option>
-    <option>MBA(APR)</option>
-    <option>B.Com</option>
+    <option value="M.TECH">M.Tech</option>
+    <option value="MCA">MCA</option>
+    <option value="MBA(MS)">MBA(MS)</option>
+    <option value="MBA(TA)">MBA(TA)</option>
+    <option value="MBA(APR)">MBA(APR)</option>
+    <option value="B.Com">B.Com</option>
     </select>
   </div>
     </div>
 
     <div class="form-group">
      <div class="dropdown">
-  <select class="btn dropdown-toggle" data-toggle="dropdown">
+  <select class="btn dropdown-toggle" data-toggle="dropdown" id="sem">
   <option selected disabled>SELECT SEMESTER</option>  
-  <option>FIRST</option>
-  <option>SECOND</option>
-  <option>THIRD</option>
-  <option>FOURTH</option>
-  <option>FIFTH</option>
-  <option>SIXTH</option>
-  <option>SEVENTH</option>
-  <option>EIGHTH</option>
-  <option>NINTH</option>
-  <option>TENTH</option>
-  <option>ELEVENTH</option>
-  <option>TWELFTH</option>
+  <option class="y">FIRST</option>
+  <option class="y">SECOND</option>
+  <option class="y">THIRD</option>
+  <option class="y">FOURTH</option>
+  <option class="y">FIFTH</option>
+  <option class="y">SIXTH</option>
+  <option class="x">SEVENTH</option>
+  <option class="x">EIGHTH</option>
+  <option class="x">NINTH</option>
+  <option class="x">TENTH</option>
+  <option class="x">ELEVENTH</option>
+  <option class="x">TWELFTH</option>
 </select> 
 </div>
     </div>
