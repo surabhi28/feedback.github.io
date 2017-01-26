@@ -19,14 +19,25 @@
         $("#course").change(function(){
      var selectedVal = $(this).val();
 
-    if(selectedVal == "B.Com")
+    if(selectedVal == "B.Com" || selectedVal == "BBA")
     {
-     $(".x").hide();
-     $(".y").show();
+     $(".x , .w").hide();
+     $(".z , .y").show();
+    }
+    else if(selectedVal == "MBA(MS)" || selectedVal == "MBA(TA)" || selectedVal == "MBA(APR)")
+    { 
+      $(".x , .y , .w").hide();
+     $(".z").show();
+
+    }
+    else if( selectedVal == "M.TECH")
+    {
+       $(".w").hide();
+     $(".z ,.x , .y").show();
     }
     else
     {
-      $(".y , .x").show();
+      $(".y , .x , .w").show();
     }
     
   });
@@ -59,6 +70,7 @@
     <option selected disabled>COURSE</option>
     <option value="M.TECH">M.Tech</option>
     <option value="MCA">MCA</option>
+    <option value="BBA">BBA</option>
     <option value="MBA(MS)">MBA(MS)</option>
     <option value="MBA(TA)">MBA(TA)</option>
     <option value="MBA(APR)">MBA(APR)</option>
@@ -71,10 +83,10 @@
      <div class="dropdown">
   <select class="btn dropdown-toggle" data-toggle="dropdown" id="sem">
   <option selected disabled>SELECT SEMESTER</option>  
-  <option class="y">FIRST</option>
-  <option class="y">SECOND</option>
-  <option class="y">THIRD</option>
-  <option class="y">FOURTH</option>
+  <option class="z">FIRST</option>
+  <option class="Z">SECOND</option>
+  <option class="z">THIRD</option>
+  <option class="z">FOURTH</option>
   <option class="y">FIFTH</option>
   <option class="y">SIXTH</option>
   <option class="x">SEVENTH</option>
@@ -82,7 +94,7 @@
   <option class="x">NINTH</option>
   <option class="x">TENTH</option>
   <option class="x">ELEVENTH</option>
-  <option class="x">TWELFTH</option>
+  <option class="w">TWELFTH</option>
 </select> 
 </div>
     </div>
