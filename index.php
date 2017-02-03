@@ -17,9 +17,9 @@
         $('h1').animate({fontSize: '4em'}, "slow");
         
         $("#course").change(function(){
-     var selectedVal = $(this).val();
+              var selectedVal = $(this).val();
 
-    if(selectedVal == "B.Com" || selectedVal == "BBA")
+              if(selectedVal == "B.Com" || selectedVal == "BBA")
     {
      $(".x , .w").hide();
      $(".z , .y").show();
