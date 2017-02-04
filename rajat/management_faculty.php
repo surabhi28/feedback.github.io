@@ -17,7 +17,7 @@
 
  	       		 <div class="col-xs-3">
     			<div class="col-xs-7">
-             <img class="img-circle img-responsive"  src="./images/Aanad K.Sapre.jpg">
+             <img class="img-circle img-responsive"  src="./images/Aanad K Sapre.jpg">
             		<h5 style="text-align:center"><b>Dr. Aanad K.Sapre</b> </h5>
             		
 			</div>
@@ -93,7 +93,7 @@
 			<div class="col-xs-3">
     			<div class="col-xs-7">
 		<img class="img-circle img-responsive" src="./images/Manminder Singh.jpg">
-            		<h5 style="text-align:center"><b>Dr.Manminder Singh</b></h5>
+            		<h5 style="text-align:center"><b>Dr.MS Saluja</b></h5>
     
  	      		 </div>
 			</div>
@@ -148,8 +148,8 @@
 	  <div class="row" "padding-left:20px">
 			<div class="col-xs-3">
     			<div class="col-xs-7">
-		<img class="img-circle img-responsive" src="./images/Muskan Karmchandni.jpg">
-            		<h5 style="text-align:center"><b>Dr. Muskan Karmchandni</b></h5>
+		<img class="img-circle img-responsive" src="./images/Muskan Karamchandani.jpg">
+            		<h5 style="text-align:center"><b>Dr. Muskan Karamchandni</b></h5>
  	      		 </div>
 			</div>
 
@@ -218,7 +218,7 @@
 <div class="row" "padding-left:20px">
 			<div class="col-xs-3">
     			<div class="col-xs-7">
-		<img class="img-circle img-responsive" src="./imagesSikha Chaturvedi.jpg">
+		<img class="img-circle img-responsive" src="./images/Sikha Chaturvedi.jpg">
             		<h5 style="text-align:center"><b>Dr. Sikha Chaturvedi</b></h5>
  	      		 </div>
 			</div>
