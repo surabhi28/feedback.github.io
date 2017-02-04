@@ -30,7 +30,7 @@
         
       <li>
         <a href="#"><!--computer_faculty -->
-          <i class="fa fa-folder" ></i> <span>Computer Faculty</span>
+          <i class="fa fa-laptop" ></i> <span>Computer Faculty</span>
           <i class="fa fa-angle-left pull-right"></i>
         </a>
         <ul class="sidebar-submenu" style="overflow-y: scroll; overflow-x:hidden;height: 400px;">
@@ -57,7 +57,7 @@
 
       <li>
         <a href="#"><!--management_faculty -->
-          <i class="fa fa-folder"></i> <span>Management Faculty</span>
+          <i class="fa fa-edit"></i> <span>Management Faculty</span>
           <i class="fa fa-angle-left pull-right"></i>
         </a>
         <ul class="sidebar-submenu" style="overflow-y: scroll;overflow-x:hidden; height: 400px;">
