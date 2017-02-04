@@ -35,7 +35,7 @@
         </a>
         <ul class="sidebar-submenu" style="overflow-y: scroll; overflow-x:hidden;height: 400px;">
           <li><a href="../examples/invoice.html"><i class="fa fa-user"></i>Dr. Ramesh Thakur</a></li>
-          <li><a href="../examples/profile.html"><i class="fa fa-user"></i>Dr. Kirti Mathur</a></li>
+          <li><a id="kk" onclick="profile()"><i  class="fa fa-user"></i>Dr. Kirti Mathur</a></li>
           <li><a href="../examples/login.html"><i class="fa fa-user"></i>Mr. Jugendra Dongre</a></li>
           <li><a href="../examples/register.html"><i class="fa fa-user"></i>Ms. Manju Suchdeo</a></li>
           <li><a href="../examples/lockscreen.html"><i class="fa fa-user"></i>Dr. Shaligram Prajapat</a></li>

@@ -10,3 +10,10 @@ function management()
 		var name= $("#mgt").attr("name");
 		$("#adder").load("management_faculty.php");	
 	}
+
+function profile()
+{
+	//var name= $("#kk").attr("name");
+	//alert(name);
+	$("#adder").load("kirti_mathur.php");
+}

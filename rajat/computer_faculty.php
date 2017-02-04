@@ -11,14 +11,14 @@
 
  	       		 <div class="col-xs-6 col-sm-4 col-md-3">
     			<div class="col-xs-7">
-             <img class="img-circle img-responsive"  src="./images/Kirti Mathur.jpg">
+             <img class="img-circle img-responsive"  src="./images/Kirti Mathur.jpg" id="kk" onclick="profile()">
             		<h5 style="text-align:center"><b>Dr. Kirti Mathur</b> </h5>	
 			</div>
  	       		</div>
 
  	       		<div class="col-xs-6 col-sm-4 col-md-3">
     			<div class="col-xs-7">
-		<img class="img-circle img-responsive" src="./images/Jugendra Dongre.jpg">
+		<img class="img-circle img-responsive" src="./images/Jugendra Dongre.jpg" >
             		<h5 style="text-align:center"><b>Mr. Jugendra Dongre</b></h5>
  	      		 </div>
 			</div>
@@ -141,3 +141,4 @@
 
 		</div>
 
+ <script src="./js/faculty_profile.js"></script>
