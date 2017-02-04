@@ -35,18 +35,18 @@
         </a>
         <ul class="sidebar-submenu" style="overflow-y: scroll; overflow-x:hidden;height: 400px;">
           <li><a href="../examples/invoice.html"><i class="fa fa-user"></i>Dr. Ramesh Thakur</a></li>
-          <li><a href="../examples/profile.html"><i class="fa fa-circle-o"></i>Dr. Kirti Mathur</a></li>
-          <li><a href="../examples/login.html"><i class="fa fa-circle-o"></i>Mr. Jugendra Dongre</a></li>
-          <li><a href="../examples/register.html"><i class="fa fa-circle-o"></i>Ms. Manju Suchdeo</a></li>
-          <li><a href="../examples/lockscreen.html"><i class="fa fa-circle-o"></i>Dr. Shaligram Prajapat</a></li>
-          <li><a href="../examples/404.html"><i class="fa fa-circle-o"></i>Ms. Poonam Mangwani</a></li>
-          <li><a href="../examples/500.html"><i class="fa fa-circle-o"></i>Ms. Shailvi Verma</a></li>
-          <li><a href="../examples/blank.html"><i class="fa fa-circle-o"></i>Dr. Yasmin Shaikh</a></li>
-          <li><a href="../examples/pace.html"><i class="fa fa-circle-o"></i>Mr. Rajesh Verma</a></li>
-          <li><a href="../examples/invoice.html"><i class="fa fa-circle-o"></i>Dr. Rahul Singhai</a></li>
-          <li><a href="../examples/profile.html"><i class="fa fa-circle-o"></i>Mr. Basant Namdeo</a></li>
-          <li><a href="../examples/login.html"><i class="fa fa-circle-o"></i>Mr. Nitin Nagar</a></li>
-          <li><a href="../examples/register.html"><i class="fa fa-circle-o"></i>Mr. Rupesh Sendre</a></li>
+          <li><a href="../examples/profile.html"><i class="fa fa-user"></i>Dr. Kirti Mathur</a></li>
+          <li><a href="../examples/login.html"><i class="fa fa-user"></i>Mr. Jugendra Dongre</a></li>
+          <li><a href="../examples/register.html"><i class="fa fa-user"></i>Ms. Manju Suchdeo</a></li>
+          <li><a href="../examples/lockscreen.html"><i class="fa fa-user"></i>Dr. Shaligram Prajapat</a></li>
+          <li><a href="../examples/404.html"><i class="fa fa-user"></i>Ms. Poonam Mangwani</a></li>
+          <li><a href="../examples/500.html"><i class="fa fa-user"></i>Ms. Shailvi Verma</a></li>
+          <li><a href="../examples/blank.html"><i class="fa fa-user"></i>Dr. Yasmin Shaikh</a></li>
+          <li><a href="../examples/pace.html"><i class="fa fa-user"></i>Mr. Rajesh Verma</a></li>
+          <li><a href="../examples/invoice.html"><i class="fa fa-user"></i>Dr. Rahul Singhai</a></li>
+          <li><a href="../examples/profile.html"><i class="fa fa-user"></i>Mr. Basant Namdeo</a></li>
+          <li><a href="../examples/login.html"><i class="fa fa-user"></i>Mr. Nitin Nagar</a></li>
+          <li><a href="../examples/register.html"><i class="fa fa-user"></i>Mr. Rupesh Sendre</a></li>
           <li><a href="../examples/lockscreen.html"><i class="fa fa-circle-o"></i>Ms. Shraddha Soni</a></li>
           <li><a href="../examples/404.html"><i class="fa fa-circle-o"></i>Ms. Kirti Vijayvargiya</a></li>
           <li><a href="../examples/500.html"><i class="fa fa-circle-o"></i>Dr. Vivek Shrivastava  </a></li>
