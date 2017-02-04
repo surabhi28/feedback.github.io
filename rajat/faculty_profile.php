@@ -98,7 +98,7 @@
     </div>
 
     <div class="col-md-9">
-     <?php include_once('developers.php')?>
+     <?php include_once('computer_faculty.php')?>
        <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
             </div>
