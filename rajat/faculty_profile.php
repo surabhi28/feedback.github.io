@@ -26,10 +26,10 @@
   <div class="row">
     <div class="col-md-3" >
       <ul class="sidebar-menu">
-      <li class="sidebar-header">FACULTY PROFILE</li>
+      <li class="sidebar-header"><b>FACULTY PROFILE</b></li>
         
       <li>
-        <a id="faculty" onclick="faculty()" name="computer"><!--computer_faculty -->
+        <a id="comp" onclick="computer()" name="computer"><!--computer_faculty -->
           <i class="fa fa-laptop" ></i> <span>Computer Faculty</span>
           <i class="fa fa-angle-left pull-right"></i>
         </a>
@@ -56,7 +56,7 @@
       </li><!--end-->
 
       <li>
-        <a id="faculty" onclick="faculty()" name="management"><!--management_faculty -->
+        <a id="mgt" onclick="management()" name="management"><!--management_faculty -->
           <i class="fa fa-edit"></i> <span>Management Faculty</span>
           <i class="fa fa-angle-left pull-right"></i>
         </a>
@@ -98,6 +98,7 @@
     </div>
 
     <div id="adder" class="col-md-9">
+      <?php include_once("computer_faculty.php") ?>
        <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
             </div>

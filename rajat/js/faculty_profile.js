@@ -1,9 +1,12 @@
-function faculty()
+function computer()
 	{
-		var name= $("#faculty").attr("name");
-		alert(name);
-	     if(name=="computer")
+		var name= $("#comp").attr("name");
 		 $("#adder").load("computer_faculty.php");
-	else if(name=="management")
+	
+	}
+
+function management()
+	{
+		var name= $("#mgt").attr("name");
 		$("#adder").load("management_faculty.php");	
 	}
