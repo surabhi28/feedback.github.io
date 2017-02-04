@@ -29,7 +29,7 @@
       <li class="sidebar-header">FACULTY PROFILE</li>
         
       <li>
-        <a href="#"><!--computer_faculty -->
+        <a id="faculty" onclick="faculty()" name="computer"><!--computer_faculty -->
           <i class="fa fa-laptop" ></i> <span>Computer Faculty</span>
           <i class="fa fa-angle-left pull-right"></i>
         </a>
@@ -56,7 +56,7 @@
       </li><!--end-->
 
       <li>
-        <a href="#"><!--management_faculty -->
+        <a id="faculty" onclick="faculty()" name="management"><!--management_faculty -->
           <i class="fa fa-edit"></i> <span>Management Faculty</span>
           <i class="fa fa-angle-left pull-right"></i>
         </a>
@@ -97,8 +97,7 @@
     </ul>
     </div>
 
-    <div class="col-md-9">
-     <?php include_once('computer_faculty.php')?>
+    <div id="adder" class="col-md-9">
        <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
             </div>
@@ -114,6 +113,7 @@
 </br>
 
   <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+  <script src="./js/faculty_profile.js"></script>
   <script src="./js/sidebar-menu.js"></script>
   <script>
     $.sidebarMenu($('.sidebar-menu'))
