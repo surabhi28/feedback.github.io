@@ -48,9 +48,9 @@
           <li><a href="../examples/login.html"><i class="fa fa-user"></i>Mr. Nitin Nagar</a></li>
           <li><a href="../examples/register.html"><i class="fa fa-user"></i>Mr. Rupesh Sendre</a></li>
           <li><a href="../examples/lockscreen.html"><i class="fa fa-user"></i>Ms. Shraddha Soni</a></li>
-          <li><a href="../examples/404.html"><i class="fa fa-circle-o"></i>Ms. Kirti Vijayvargiya</a></li>
-          <li><a href="../examples/500.html"><i class="fa fa-circle-o"></i>Dr. Vivek Shrivastava  </a></li>
-          <li><a href="../examples/blank.html"><i class="fa fa-circle-o"></i>Mr. Pradeep K. Jatav</a></li>
+          <li><a href="../examples/404.html"><i class="fa fa-user"></i>Ms. Kirti Vijayvargiya</a></li>
+          <li><a href="../examples/500.html"><i class="fa fa-user"></i>Dr. Vivek Shrivastava  </a></li>
+          <li><a href="../examples/blank.html"><i class="fa fa-user"></i>Mr. Pradeep K. Jatav</a></li>
        
         </ul>
       </li><!--end-->
