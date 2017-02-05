@@ -1,9 +1,9 @@
 <div>
     <table align="center" width="85%" height="auto" border="0" class="style3" >
       <tr>
-         <h1 style="padding-left: 70px;"> <b>Ms. Shraddha Soni </b></h1>
+         <h1 style="padding-left: 70px;"> <b>Dr. Kapil Jain</b></h1>
           <td width="30%" rowspan="12">
-          <center><img class = "img-thumbnail" src="./images/Kirti Mathur.jpg" /></center>
+          <center><img class = "img-thumbnail" src="./images/Kapil Jain.jpg" /></center>
         </td>
       </tr>
       <tr >

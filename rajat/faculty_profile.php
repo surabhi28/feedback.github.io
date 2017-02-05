@@ -61,35 +61,35 @@
           <i class="fa fa-angle-left pull-right"></i>
         </a>
         <ul class="sidebar-submenu" style="overflow-y: scroll;overflow-x:hidden; height:285px;  background-color:#0b3262;">
-          <li><a href="#"><i class="fa fa-user"></i>Dr. B.K.Tripathi</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr.  Anand K. Sapre</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Yamini Karmarkar</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Geeta Sharma</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Geeta Nema</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Jyoti Sharma</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Manish Sitlani</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Preeti Singh</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Suresh Patidar</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Ravindra Yadav</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr.  Manminder Singh Saluja</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr.  Anshu Bhati</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Pooja Jain</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Sujata Parwani</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Gaurav Purohit</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Anil S. Goray</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Muskan Karamchandani</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Surendra Malviya</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Kapil Jain</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Nirmala Sawan</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Shilpa Bagdare</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Navneet Bhatia</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Prerna Kumar</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Mr. Naresh Dembla</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Shikha Chaturvedi</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Mr. Ravi Bunkar</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Mr. Chetan Raikwar</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Ms. Neha Chouhan</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Jyoti Jain</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Bk_Tripathi';?>')"><i class="fa fa-user"></i>Dr. B.K.Tripathi</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Anand_Sapre';?>')"><i class="fa fa-user"></i>Dr.  Anand K. Sapre</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Yamini_Karmarkar';?>')"><i class="fa fa-user"></i>Dr. Yamini Karmarkar</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Geeta_Sharma';?>')"><i class="fa fa-user"></i>Dr. Geeta Sharma</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Geeta_Neema';?>')"><i class="fa fa-user"></i>Dr. Geeta Nema</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Jyoti_Sharma';?>')"><i class="fa fa-user"></i>Dr. Jyoti Sharma</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Manish_Sitlani';?>')"><i class="fa fa-user"></i>Dr. Manish Sitlani</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Preeti_Singh';?>')"><i class="fa fa-user"></i>Dr. Preeti Singh</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Suresh_Patidar';?>')"><i class="fa fa-user"></i>Dr. Suresh Patidar</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Ravindra_Yadav';?>')"><i class="fa fa-user"></i>Dr. Ravindra Yadav</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Ms_Saluja';?>')"><i class="fa fa-user"></i>Dr.  Manminder Singh Saluja</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Anshu_Bhati';?>')"><i class="fa fa-user"></i>Dr.  Anshu Bhati</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Pooja_Jain';?>')"><i class="fa fa-user"></i>Dr. Pooja Jain</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Sujata_Parwani';?>')"><i class="fa fa-user"></i>Dr. Sujata Parwani</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Gaurav_Purohit';?>')"><i class="fa fa-user"></i>Dr. Gaurav Purohit</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Anil_Goray';?>')"><i class="fa fa-user"></i>Dr. Anil S. Goray</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Muskan_Karamchandani';?>')"><i class="fa fa-user"></i>Dr. Muskan Karamchandani</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Surendra_Malviya';?>')"><i class="fa fa-user"></i>Dr. Surendra Malviya</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Kapil_Jain';?>')"><i class="fa fa-user"></i>Dr. Kapil Jain</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Nirmala_Sawan';?>')"><i class="fa fa-user"></i>Dr. Nirmala Sawan</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Shilpa_Bagdare';?>')"><i class="fa fa-user"></i>Dr. Shilpa Bagdare</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Navneet_Bhatia';?>')"><i class="fa fa-user"></i>Dr. Navneet Bhatia</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Prerna_Kumar';?>')"><i class="fa fa-user"></i>Dr. Prerna Kumar</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Naresh_Dembla';?>')"><i class="fa fa-user"></i>Mr. Naresh Dembla</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Shikha_Chaturvedi';?>')"><i class="fa fa-user"></i>Dr. Shikha Chaturvedi</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Ravi_Bunkar';?>')"><i class="fa fa-user"></i>Mr. Ravi Bunkar</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Chetan_Raikwar';?>')"><i class="fa fa-user"></i>Dr. Mr. Chetan Raikwar</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Neha_Chouhan';?>')"><i class="fa fa-user"></i>Ms. Neha Chouhan</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Jyoti_Jain';?>')"><i class="fa fa-user"></i>Dr. Jyoti Jain</a></li>
         </ul>
       </li>
      

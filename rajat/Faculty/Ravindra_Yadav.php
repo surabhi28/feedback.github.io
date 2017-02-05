@@ -1,9 +1,9 @@
 <div>
     <table align="center" width="85%" height="auto" border="0" class="style3" >
       <tr>
-         <h1 style="padding-left: 70px;"> <b>Ms. Poonam Mangwani </b></h1>
+         <h1 style="padding-left: 70px;"> <b>Mr. Ravindra Yadav </b></h1>
           <td width="30%" rowspan="12">
-          <center><img class = "img-thumbnail" src="./images/Kirti Mathur.jpg" /></center>
+          <center><img class = "img-thumbnail" src="./images/Ravindra Yadav.jpg" /></center>
         </td>
       </tr>
       <tr >

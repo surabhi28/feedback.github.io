@@ -6,7 +6,13 @@ function faculty(name)
 
 function profile(name)
 {
-	$("#adder").load("./Faculty/"+name+".php");
+  $.ajax({
+data: {name:name},
+success: function()
+  { 
+  $("#adder").load("./Faculty/"+name+".php"); 
+  }
+});
 }
 
 
