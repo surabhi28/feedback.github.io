@@ -1,5 +1,4 @@
-﻿   
-		   
+﻿
     		<div class="row" "padding-left:20px">
 
     			<div class="col-xs-6 col-sm-4 col-md-3">
@@ -175,12 +174,3 @@
 		</div>
 
  <script src="./js/faculty_profile.js"></script>
-
- <script>
- .img-circle img-responsive
- {
- 	-webkit-box-shadow: none;
-	-moz-box-shadow: none;
-	box-shadow: none;
- }
- </script>

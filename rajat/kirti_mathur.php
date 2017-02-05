@@ -1,12 +1,15 @@
-<div>
+<div style="border:2px solid #0b3262; border-radius:10px;">
     <table align="center" width="85%" height="auto" border="0" class="style3" >
+      <br/>
       <tr>
-         <h1 style="padding-left: 70px;"> <b>Dr. Kirti Mathur </b></h1>
           <td width="30%" rowspan="12">
           <center><img class = "img-thumbnail" src="./images/Kirti Mathur.jpg" /></center>
+          <h3> <b>Dr. Kirti Mathur </b></h3>
         </td>
+         
+        
       </tr>
-      <tr >
+      <tr style="margin-left:40px;">
         <td style="padding-left: 20px;"><b>Qualification</b> </td>
         <td height="30px" style="padding-left: 20px;"> 
         <td style="padding-left: 20px;">Ph.D, M.E.(Comp. Eng.)</td>
@@ -95,19 +98,28 @@
           <button type="button" class="btn btn-primary">Publications</button>
          
       </div>
-      <div class="btn-group col-md-3 text-center">
-         
-         
+      <div class="btn-group col-md-3 text-center">   
       </div>
+      
       </br>
       </br>
 
-      <div id="myDiv" style="display:none; padding-left: 140px; text-align: center; background-color: lightgrey;" class="answer_list" >
-  <pre> * Engineering Graduate in Computer Engineering in 1999. </br>  
-        * Associate Member of Institution of Engineers.</br>
-        * received Bachelor degree in English Literature in 1995 . </br>
-        * completed P.G.D.C.A</br>
-        </pre>
+      <div id="myDiv" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+  <pre>
+* Engineering Graduate in Computer Engineering in 1999.</br> 
+* Associate Member of Institution of Engineers.</br>
+* received Bachelor degree in English Literature in 1995 . </br>
+* completed P.G.D.C.A</br>
+</pre>
       </div>
+
       </div>
+
       <script src="./js/faculty_profile.js"></script>
+      <style>
+      .btn-primary
+      {
+        background-color:#0b3262;
+      }
+
+      </style>
