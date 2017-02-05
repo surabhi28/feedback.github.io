@@ -68,25 +68,14 @@
      <br /> 
      
       <div style="padding-left: 110px;" class="btn-group  text-center person ">
-            <button type="button" class="btn btn-primary person "> <a href="#demo" data-toggle="collapse">Memberships</a></button>
+            <button type="button" id="myButton" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a></button>
       
-       <div id="demo" class="collapse hover ">
-              <a href="robowar.html">ROBO WAR</a><br>
-              <a href="">ROBO SOCCER</a><br>
-              <a href="">ROBO SWIM</a><br>
-              
-              <a href="">CALL OF DUTY</a><br>
-       </div>      
-  </div>
+           
+      </div>
+      
       <div class="btn-group text-center">
-          <button type="button" class="btn btn-primary"><a href="#demo1" data-toggle="collapse">Researchs</a></button>
-           <div id="demo1" class="collapse hover ">
-              <a href="robowar.html">ROBO WAR</a><br>
-              <a href="">ROBO SOCCER</a><br>
-              <a href="">ROBO SWIM</a><br>
-              
-              <a href="">CALL OF DUTY</a><br>
-       </div>   
+          <button type="button" class="btn btn-primary">Researchs</a></button>
+            
       </div>
       <div class="btn-group text-center ">
        
@@ -110,4 +99,15 @@
          
          
       </div>
+      </br>
+      </br>
+
+      <div id="myDiv" style="display:none; padding-left: 140px; text-align: center; background-color: lightgrey;" class="answer_list" >
+  <pre> * Engineering Graduate in Computer Engineering in 1999. </br>  
+        * Associate Member of Institution of Engineers.</br>
+        * received Bachelor degree in English Literature in 1995 . </br>
+        * completed P.G.D.C.A</br>
+        </pre>
       </div>
+      </div>
+      <script src="./js/faculty_profile.js"></script>

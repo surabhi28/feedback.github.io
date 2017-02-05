@@ -17,3 +17,10 @@ function profile()
 	//alert(name);
 	$("#adder").load("kirti_mathur.php");
 }
+
+
+$('#myButton').click(function() {
+  $('#myDiv').toggle('slow', function() {
+    // Animation complete.
+  });
+});
