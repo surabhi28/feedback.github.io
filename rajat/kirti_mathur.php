@@ -71,31 +71,31 @@
      <br /> 
      
       <div style="padding-left: 110px;" class="btn-group  text-center person ">
-            <button type="button" id="myButton" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a></button>
+            <button type="button" id="mymembership" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a></button>
       
            
       </div>
       
       <div class="btn-group text-center">
-          <button type="button" class="btn btn-primary">Researchs</a></button>
+          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Researchs</a></button>
             
       </div>
       <div class="btn-group text-center ">
        
-          <button type="button" class="btn btn-primary">Responsibilities</button>
+          <button type="button" id="myresponsibility" name="answer" onclick="ShowDiv()" class="btn btn-primary">Responsibilities</button>
          
       </div>
       
       <div class="btn-group text-center">
-          <button type="button" class="btn btn-primary">Projects</button>
+          <button type="button" id="myproject" name="answer" onclick="ShowDiv()" class="btn btn-primary">Projects</button>
          
       </div>
       <div class="btn-group text-center">
-          <button type="button" class="btn btn-primary">Presentations</button>
+          <button type="button" id="mypresentation" name="answer" onclick="ShowDiv()" class="btn btn-primary">Presentations</button>
          
       </div>
       <div class="btn-group text-center">
-          <button type="button" class="btn btn-primary">Publications</button>
+          <button type="button" id="mypublication" name="answer" onclick="ShowDiv()" class="btn btn-primary">Publications</button>
          
       </div>
       <div class="btn-group col-md-3 text-center">   
@@ -104,12 +104,42 @@
       </br>
       </br>
 
-      <div id="myDiv" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+      <div id="membership" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
   <pre>
 * Engineering Graduate in Computer Engineering in 1999.</br> 
 * Associate Member of Institution of Engineers.</br>
 * received Bachelor degree in English Literature in 1995 . </br>
 * completed P.G.D.C.A</br>
+</pre>
+      </div>
+
+     <div id="research" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+  <pre>
+* Researches
+</pre>
+      </div>
+
+         <div id="responsibility" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+  <pre>
+* Responsibilty
+</pre>
+      </div>
+
+         <div id="project" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+  <pre>
+* Projects
+</pre>
+      </div>
+
+         <div id="presentation" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+  <pre>
+* Presentations
+</pre>
+      </div>
+
+         <div id="publication" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+  <pre>
+* Publications
 </pre>
       </div>
 
