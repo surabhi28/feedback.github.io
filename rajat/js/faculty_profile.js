@@ -1,21 +1,12 @@
-function computer()
+function faculty(name)
 	{
-		var name= $("#comp").attr("name");
-		 $("#adder").load("computer_faculty.php");
-	
+		 $("#adder").load(name+".php");
 	}
 
-function management()
-	{
-		var name= $("#mgt").attr("name");
-		$("#adder").load("management_faculty.php");	
-	}
 
-function profile()
+function profile(name)
 {
-	//var name= $("#kk").attr("name");
-	//alert(name);
-	$("#adder").load("kirti_mathur.php");
+	$("#adder").load("./Faculty/"+name+".php");
 }
 
 

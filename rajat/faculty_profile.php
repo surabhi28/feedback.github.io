@@ -29,34 +29,34 @@
       <li class="sidebar-header" style="background-color:#0b3262; border:1px solid black;"><b>FACULTY PROFILE</b></li>
         
       <li  style="border:1px solid black;">
-        <a href="#" id="comp" onclick="computer()" name="computer"><!--computer_faculty -->
+        <a href="#" onclick="faculty('<?php echo 'computer_faculty';?>')"> <!--computer_faculty -->
           <i class="fa fa-laptop" ></i> <span>Computer Faculty</span>
           <i class="fa fa-angle-left pull-right"></i>
         </a>
         <ul class="sidebar-submenu" style="overflow-y:scroll; overflow-x:hidden; height:285px; background-color:#0b3262">
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Ramesh Thakur</a></li>
-          <li><a href="#" id="kk" onclick="profile()"><i  class="fa fa-user"></i>Dr. Kirti Mathur</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Mr. Jugendra Dongre</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Ms. Manju Suchdeo</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Shaligram Prajapat</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Ms. Poonam Mangwani</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Ms. Shailvi Verma</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Yasmin Shaikh</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Mr. Rajesh Verma</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Rahul Singhai</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Mr. Basant Namdeo</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Mr. Nitin Nagar</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Mr. Rupesh Sendre</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Ms. Shraddha Soni</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Ms. Kirti Vijayvargiya</a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Dr. Vivek Shrivastava  </a></li>
-          <li><a href="#"><i class="fa fa-user"></i>Mr. Pradeep K. Jatav</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Ramesh_Thakur';?>')"><i class="fa fa-user"></i>Dr. Ramesh Thakur</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Kirti_Mathur';?>')"><i  class="fa fa-user"></i>Dr. Kirti Mathur</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Jugendra_Dongre';?>')"><i class="fa fa-user"></i>Mr. Jugendra Dongre</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Manju_Suchdev';?>')"><i class="fa fa-user"></i>Ms. Manju Suchdeo</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Shaligram_Prajapat';?>')"><i class="fa fa-user"></i>Dr. Shaligram Prajapat</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Poonam_Mangwani';?>')"><i class="fa fa-user"></i>Ms. Poonam Mangwani</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Shalivi_Verma';?>')"><i class="fa fa-user"></i>Ms. Shailvi Verma</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Yasmin Shaikh';?>')"><i class="fa fa-user"></i>Dr. Yasmin Shaikh</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Rajesh_Verma';?>')"><i class="fa fa-user"></i>Mr. Rajesh Verma</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Rahul_Singhai';?>')"><i class="fa fa-user"></i>Dr. Rahul Singhai</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Basant_Namdeo';?>')"><i class="fa fa-user"></i>Mr. Basant Namdeo</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Nitin_Nagar';?>')"><i class="fa fa-user"></i>Mr. Nitin Nagar</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Rupesh_Sendre';?>')"><i class="fa fa-user"></i>Mr. Rupesh Sendre</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Shraddha_Soni';?>')"><i class="fa fa-user"></i>Ms. Shraddha Soni</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Kirti_Vijayawargiya';?>')"><i class="fa fa-user"></i>Ms. Kirti Vijayvargiya</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Vivek_Shrivastava';?>')"><i class="fa fa-user"></i>Dr. Vivek Shrivastava  </a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Pradeep_Jatav';?>')"><i class="fa fa-user"></i>Mr. Pradeep K. Jatav</a></li>
        
         </ul>
       </li><!--end-->
 
       <li style=" border:1px solid black;">
-        <a href="#" id="mgt" onclick="management()" name="management"><!--management_faculty -->
+        <a href="#" onclick="faculty('<?php echo 'management_faculty';?>')"><!--management_faculty -->
           <i class="fa fa-edit"></i> <span>Management Faculty</span>
           <i class="fa fa-angle-left pull-right"></i>
         </a>
@@ -98,7 +98,7 @@
     </div>
 
     <div id="adder" class="col-md-9">
-      <?php include("computer_faculty.php") ?>
+      <?php include_once("computer_faculty.php") ?>
        <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
             </div>
