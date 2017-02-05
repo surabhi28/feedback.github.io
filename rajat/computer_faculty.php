@@ -8,14 +8,14 @@
             		<h5 style="text-align:center"><b>Dr. Ramesh Thakur</b></h5>
  	      		 </div>
  	      		</div>
-
+ 	       		
  	       		 <div class="col-xs-6 col-sm-4 col-md-3">
-    			<div class="col-xs-7">
-             <img class="img-circle img-responsive"  src="./images/Kirti Mathur.jpg" id="kk" onclick="profile()">
-            		<h5 style="text-align:center"><b>Dr. Kirti Mathur</b> </h5>	
+    			<div class="col-xs-7"><a href="#" id="kk" onclick="profile()">
+             <img class="img-circle img-responsive"  src="./images/Kirti Mathur.jpg">
+            		<h5 style="text-align:center"><b>Dr. Kirti Mathur</b> </h5></a>
 			</div>
  	       		</div>
-
+ 	    
  	       		<div class="col-xs-6 col-sm-4 col-md-3">
     			<div class="col-xs-7">
 		<img class="img-circle img-responsive" src="./images/Jugendra Dongre.jpg" >

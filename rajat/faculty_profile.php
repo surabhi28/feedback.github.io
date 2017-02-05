@@ -29,13 +29,13 @@
       <li class="sidebar-header"><b>FACULTY PROFILE</b></li>
         
       <li>
-        <a id="comp" onclick="computer()" name="computer"><!--computer_faculty -->
+        <a href="#" id="comp" onclick="computer()" name="computer"><!--computer_faculty -->
           <i class="fa fa-laptop" ></i> <span>Computer Faculty</span>
           <i class="fa fa-angle-left pull-right"></i>
         </a>
         <ul class="sidebar-submenu" style="overflow-y: scroll; overflow-x:hidden;height: 400px;">
           <li><a href="../examples/invoice.html"><i class="fa fa-user"></i>Dr. Ramesh Thakur</a></li>
-          <li><a id="kk" onclick="profile()"><i  class="fa fa-user"></i>Dr. Kirti Mathur</a></li>
+          <li><a href="#" id="kk" onclick="profile()"><i  class="fa fa-user"></i>Dr. Kirti Mathur</a></li>
           <li><a href="../examples/login.html"><i class="fa fa-user"></i>Mr. Jugendra Dongre</a></li>
           <li><a href="../examples/register.html"><i class="fa fa-user"></i>Ms. Manju Suchdeo</a></li>
           <li><a href="../examples/lockscreen.html"><i class="fa fa-user"></i>Dr. Shaligram Prajapat</a></li>
@@ -56,7 +56,7 @@
       </li><!--end-->
 
       <li>
-        <a id="mgt" onclick="management()" name="management"><!--management_faculty -->
+        <a href="#" id="mgt" onclick="management()" name="management"><!--management_faculty -->
           <i class="fa fa-edit"></i> <span>Management Faculty</span>
           <i class="fa fa-angle-left pull-right"></i>
         </a>
