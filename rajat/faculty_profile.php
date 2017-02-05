@@ -40,8 +40,8 @@
           <li><a href="#" onclick="profile('<?php echo 'Manju_Suchdev';?>')"><i class="fa fa-user"></i>Ms. Manju Suchdeo</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Shaligram_Prajapat';?>')"><i class="fa fa-user"></i>Dr. Shaligram Prajapat</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Poonam_Mangwani';?>')"><i class="fa fa-user"></i>Ms. Poonam Mangwani</a></li>
-          <li><a href="#" onclick="profile('<?php echo 'Shalivi_Verma';?>')"><i class="fa fa-user"></i>Ms. Shailvi Verma</a></li>
-          <li><a href="#" onclick="profile('<?php echo 'Yasmin Shaikh';?>')"><i class="fa fa-user"></i>Dr. Yasmin Shaikh</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Shailvi_Verma';?>')"><i class="fa fa-user"></i>Ms. Shailvi Verma</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Yasmin_Shaikh';?>')"><i class="fa fa-user"></i>Dr. Yasmin Shaikh</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Rajesh_Verma';?>')"><i class="fa fa-user"></i>Mr. Rajesh Verma</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Rahul_Singhai';?>')"><i class="fa fa-user"></i>Dr. Rahul Singhai</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Basant_Namdeo';?>')"><i class="fa fa-user"></i>Mr. Basant Namdeo</a></li>
