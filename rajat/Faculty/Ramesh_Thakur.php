@@ -19,7 +19,7 @@
     </tr>
       <tr> 
          <td    ><b>Designation</b></td>
-         <td id="height"    > 
+         <td id="height"> 
         <td      >Professor & Head</td>
       </tr>
         <tr> 
@@ -102,12 +102,9 @@
       </div>
 
     </div>
-
-      
-      </br>
       </br>
 
-      <div id="membership" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+      <div id="membership" class="answer_list" >
   <pre>
 * Engineering Graduate in Computer Engineering in 1999.</br> 
 * Associate Member of Institution of Engineers.</br>
@@ -116,31 +113,31 @@
 </pre>
       </div>
 
-     <div id="research" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+     <div id="research" class="answer_list" >
   <pre>
 * Researches
 </pre>
       </div>
 
-         <div id="responsibility" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+         <div id="responsibility" class="answer_list" >
   <pre>
 * Responsibilty
 </pre>
       </div>
 
-         <div id="project" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+         <div id="project" class="answer_list" >
   <pre>
 * Projects
 </pre>
       </div>
 
-         <div id="presentation" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+         <div id="presentation"  class="answer_list" >
   <pre>
 * Presentations
 </pre>
       </div>
 
-         <div id="publication" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+         <div id="publication" class="answer_list" >
   <pre>
 * Publications
 </pre>

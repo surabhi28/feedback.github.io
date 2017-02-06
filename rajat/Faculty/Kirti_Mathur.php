@@ -19,7 +19,7 @@
     </tr>
       <tr> 
          <td    ><b>Designation</b></td>
-         <td id="height"    > 
+         <td id="height"> 
         <td      >Professor & Head</td>
       </tr>
         <tr> 
