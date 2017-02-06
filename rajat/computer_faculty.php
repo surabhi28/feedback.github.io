@@ -4,7 +4,7 @@
     			<div class="col-xs-6 col-sm-4 col-md-3">
     			<div class="col-xs-7">
     				<a href="#" onclick="profile('<?php echo 'Ramesh_Thakur';?>')">
-                <img class="img-circle img-responsive"  src="./images/Ramesh Thakur.jpg" >
+                    <img class="img-circle img-responsive"  src="./images/Ramesh Thakur.jpg" >
             		<h5 style="text-align:center"><b>Dr. Ramesh Thakur</b></h5>
             	</a>
  	      		 </div>
