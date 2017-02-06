@@ -32,6 +32,17 @@ td{
 	text-align:left;
 	display:none;
 	margin-left:95px;
-	background-color:lightgrey;
 	width:637px;  
  }
+
+@media only screen (min-width: 768px) and (max-width:1200px) {
+      .person , .answer_list
+      {
+        margin-left: 110px;
+      }
+
+@media only screen (min-width:0px) and (max-width: 767px){
+      .person , .answer_list
+      {
+        margin-left: 500px;
+      }

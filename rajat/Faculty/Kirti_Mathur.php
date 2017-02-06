@@ -72,7 +72,7 @@
 
      <div class="row">
       
-      <div class="btn-group  text-center person" style="padding-left:110px;">
+      <div class="btn-group  text-center person">
             <button type="button" id="mymembership" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a></button>
       
            
@@ -98,19 +98,22 @@
       </div>
       <div class="btn-group text-center">
           <button type="button" id="mypublication" name="answer" onclick="ShowDiv()" class="btn btn-primary">Publications</button>
-         
-      </div>
-
+        
+      </div> 
     </div>
-      </br>
+    <br/>
 
-      <div id="membership" class="answer_list" >
-  <pre>
-* Engineering Graduate in Computer Engineering in 1999.</br> 
-* Associate Member of Institution of Engineers.</br>
-* received Bachelor degree in English Literature in 1995 . </br>
-* completed P.G.D.C.A</br>
-</pre>
+      <div id="membership" class="answer_list table-responsive">
+  <table class="table table-striped">
+<tr><td> Engineering Graduate in Computer Engineering in 1999.</td>
+  <td>1234</td></tr> 
+<tr><td> Associate Member of Institution of Engineers.</td>
+<td>1245</td></tr>
+<tr><td>* received Bachelor degree in English Literature in 1995 .</td>
+<td>457</td></tr> 
+<tr><td>completed P.G.D.C.A</td>
+<td>424</td></tr> 
+</table>
       </div>
 
      <div id="research" class="answer_list" >
