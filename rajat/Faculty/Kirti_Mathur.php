@@ -5,7 +5,7 @@
     <div class="col-xs-10 col-md-4">
        <h3 style="margin-left:30px;"> <b>Dr. Kirti Mathur</b></h3>
           <br/>
-          <center><img class = "img-thumb" src="./images/Kirti Mathur.jpg" /></center>
+          <center><img class = "img-thumb" src="./images/Kirti Mathur.jpg" / style="border-radius:5px;"></center>
         </div>
 
     <div class="col-xs-4 col-md-7">
