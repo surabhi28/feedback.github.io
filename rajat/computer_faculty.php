@@ -12,7 +12,7 @@
  	       		
  	       		 <div class="col-xs-6 col-sm-4 col-md-3">
     			<div class="col-xs-7">
-    				<a href="#" id="kk" onclick="profile()">
+    				<a href="#" id="kk" onclick="profile('<?php echo 'Kirti_Mathur';?>')">
              <img class="img-circle img-responsive"  src="./images/Kirti Mathur.jpg">
             		<h5 style="text-align:center"><b>Dr. Kirti Mathur</b> </h5>
             	</a>

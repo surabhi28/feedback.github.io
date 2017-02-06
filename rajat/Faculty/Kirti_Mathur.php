@@ -1,65 +1,67 @@
-<div style="border:2px solid #0b3262; border-radius:10px;">
-    <table align="center" width="85%" height="auto" border="0" class="style3" >
+<div id="profileDiv">
+    <table id="profileTable" align="center" class="style3" >
       <br/>
       <tr>
+	  </br>
+	      <h2 style="padding-left:60px;"> <b><a href="https://sites.google.com/site/kirtimathuriipsdavv/home">Dr. Kirti Mathur</a> </b></h2>
           <td width="30%" rowspan="12">
           <center><img class = "img-thumbnail" src="./images/Kirti Mathur.jpg" /></center>
-          <h3> <b>Dr. Kirti Mathur </b></h3>
+   
         </td>
          
         
       </tr>
       <tr style="margin-left:40px;">
-        <td style="padding-left: 20px;"><b>Qualification</b> </td>
-        <td height="30px" style="padding-left: 20px;"> 
-        <td style="padding-left: 20px;">Ph.D, M.E.(Comp. Eng.)</td>
+        <td    ><b>Qualification</b> </td>
+        <td id="height"    > 
+        <td    >Ph.D, M.E.(Comp. Eng.)</td>
       </td>
       <tr > 
-         <td style="padding-left: 20px;"><b>Designation</b></td>
-         <td height="30px" style="padding-left: 20px;"> 
-        <td  style="padding-left: 20px;" >Professor & Head</td>
+         <td    ><b>Designation</b></td>
+         <td id="height"    > 
+        <td      >Professor & Head</td>
       </tr>
         <tr> 
-        <td style="padding-left: 20px;"><b>Specialization</b></td>
-          <td height="30px" style="padding-left: 20px;"> 
-        <td style="padding-left: 20px;">Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
+        <td    ><b>Specialization</b></td>
+          <td id="height"    > 
+        <td    >Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
       </tr>
         <tr>
-          <td style="padding-left: 20px;"><b>Current_Subjects</b></td>
-          <td height="30px" style="padding-left: 20px;"></td>
-          <td style="padding-left: 20px;">Software Testing & Q. A. .</td>
+          <td    ><b>Current_Subjects</b></td>
+          <td id="height"    ></td>
+          <td    >Software Testing & Q. A. .</td>
         </tr> 
 
         <tr>
-          <td  style="padding-left: 20px;"><b>Recent_Subjects</b> </td>
-          <td style="padding-left: 20px;" height="30px" ></td>
-          <td style="padding-left: 20px;">Internet & Web Technology .</td>
+          <td     ><b>Recent_Subjects</b> </td>
+          <td     id="height" ></td>
+          <td    >Internet & Web Technology .</td>
         </tr> 
         <tr>
-          <td  style="padding-left: 20px;" ><b>Industry_Experience</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" > Three Year in Impetus Infotech.</td>
+          <td      ><b>Industry_Experience</b></td>
+           <td     id="height" ></td>
+          <td       colspan="2" > Three Year in Impetus Infotech.</td>
         </tr>
         <tr>
-          <td  style="padding-left: 20px;" ><b>Phone</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td   style="padding-left: 20px;" colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
+          <td      ><b>Phone</b></td>
+           <td     id="height" ></td>
+          <td       colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
         </tr> 
         <tr>
-          <td  style="padding-left: 20px;" ><b>E-Mail id</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" ><a href="mailto:sanjay_tanwani@hotmail.com">sanjay_tanwani@hotmail.com</a> </td>
+          <td      ><b>E-Mail id</b></td>
+           <td     id="height" ></td>
+          <td       colspan="2" ><a href="mailto:sanjay_tanwani@hotmail.com">sanjay_tanwani@hotmail.com</a> </td>
         </tr>   
          
          <tr>
-          <td  style="padding-left: 20px;" ><b>Address</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" > 58,Katja Colony,Near Collecterate,Indore </td>
+          <td      ><b>Address</b></td>
+           <td     id="height" ></td>
+          <td       colspan="2" > 58,Katja Colony,Near Collecterate,Indore </td>
         </tr>  
         <tr>
-          <td  style="padding-left: 20px;" ><b>Detailed Resume</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
+          <td      ><b>Detailed Resume</b></td>
+           <td     id="height" ></td>
+          <td       colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
         </tr>     
         
         
@@ -146,10 +148,4 @@
       </div>
 
       <script src="./js/faculty_profile.js"></script>
-      <style>
-      .btn-primary
-      {
-        background-color:#0b3262;
-      }
-
-      </style>
+      <link href="css/profile.css" rel="stylesheet">
