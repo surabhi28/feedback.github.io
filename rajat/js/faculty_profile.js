@@ -7,6 +7,7 @@ function faculty(name)
 function profile(name)
 {
   $.ajax({
+
 data: {name:name},
 success: function()
   { 
@@ -39,7 +40,7 @@ $('#myresponsibility').click(function() {
 });
 
 $('#myproject').click(function() {
-	$('#research, #responsibility ,#membership , #presentation #publication').hide();
+	$('#research, #responsibility ,#membership , #presentation ,#publication').hide();
   $('#project').toggle('slow', function() {
     // Animation complete.
   });

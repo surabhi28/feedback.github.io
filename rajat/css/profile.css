@@ -25,5 +25,13 @@ td{
  	display:inline;
  	height:200px;
  	width:200px;
-
+ }
+ .answer_list
+ {
+	border-radius:15px;
+	text-align:left;
+	display:none;
+	margin-left:95px;
+	background-color:lightgrey;
+	width:637px;  
  }
