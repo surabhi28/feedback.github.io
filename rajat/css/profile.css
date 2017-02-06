@@ -35,14 +35,24 @@ td{
 	width:637px;  
  }
 
-@media only screen (min-width: 768px) and (max-width:1200px) {
-      .person , .answer_list
-      {
-        margin-left: 110px;
-      }
+ .person{
+	
+	
+	margin-left:110px;
+    
+}
 
-@media only screen (min-width:0px) and (max-width: 767px){
-      .person , .answer_list
-      {
-        margin-left: 500px;
-      }
+
+@media screen and (max-width: 500px){  
+    .answer_list{  
+        margin-left:2px;
+        
+        width:100%;
+    }  
+    .person{
+	
+    	margin-left:20px;
+    }
+
+  
+}  
