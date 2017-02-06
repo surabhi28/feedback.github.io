@@ -125,3 +125,11 @@
         width: auto; }
     .sidebar-menu-rtl .sidebar-submenu > li.active > a, .sidebar-menu-rtl .sidebar-submenu > li > a:hover {
       color: #fff; }
+
+.icon{
+  img: url();
+  border-radius:50%;
+  height:18px;
+  width:18px;
+  margin-right:8px;
+}

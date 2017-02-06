@@ -19,3 +19,11 @@ td{
       {
         background-color:#0b3262;
    }
+
+ .img-thumb
+ {
+ 	display:inline;
+ 	height:200px;
+ 	width:200px;
+
+ }

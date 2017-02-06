@@ -1,19 +1,17 @@
 <div id="profileDiv">
-    <table id="profileTable" align="center" class="style3" >
+    <table id="profileTable" align="left" class="style3" valign="top">
       <br/>
       <tr>
-	  </br>
-	      <h2 style="padding-left:60px;"> <b><a href="https://sites.google.com/site/kirtimathuriipsdavv/home">Dr. Kirti Mathur</a> </b></h2>
-          <td width="30%" rowspan="12">
-          <center><img class = "img-thumbnail" src="./images/Kirti Mathur.jpg" /></center>
-   
+    <td width="40%" rowspan="12" valign="top" style="margin-top:0px;" >
+	      <h3 style="margin-left:30px;"> <b>Dr. Kirti Mathur</b></h3>
+          <br/>
+          <center><img class = "img-thumb" src="./images/Kirti Mathur.jpg" /></center>
         </td>
-         
-        
       </tr>
-      <tr style="margin-left:40px;">
-        <td    ><b>Qualification</b> </td>
-        <td id="height"    > 
+      
+      <tr>
+        <td><b>Qualification</b> </td>
+        <td id="height"   > 
         <td    >Ph.D, M.E.(Comp. Eng.)</td>
       </td>
       <tr > 
@@ -43,7 +41,7 @@
           <td       colspan="2" > Three Year in Impetus Infotech.</td>
         </tr>
         <tr>
-          <td      ><b>Phone</b></td>
+          <td valign="top"><b>Phone</b></td>
            <td     id="height" ></td>
           <td       colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
         </tr> 
@@ -63,14 +61,12 @@
            <td     id="height" ></td>
           <td       colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
         </tr>     
-        
-        
-
+        <td><br/></td>  
       </tr>
-         
+           
       </table>
           
-     <br /> 
+    
      
       <div style="padding-left: 110px;" class="btn-group  text-center person ">
             <button type="button" id="mymembership" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a></button>
@@ -112,6 +108,11 @@
 * Associate Member of Institution of Engineers.</br>
 * received Bachelor degree in English Literature in 1995 . </br>
 * completed P.G.D.C.A</br>
+*
+*
+*
+*
+*
 </pre>
       </div>
 

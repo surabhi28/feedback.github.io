@@ -11,7 +11,7 @@
     			<div class="col-xs-3">
     			<div class="col-xs-7">
     				<a href="#">
-                <img class="img-circle img-responsive"  src="./images/B.K.Tripathi.jpg" >
+                <img class="img-circle img-responsive"  src="./images/Bk Tripathi.jpg" >
             		<h5 style="text-align:center"><b>Dr. B.K.Tripathi</b></h5>
             	</a>
  	      		 </div>
@@ -20,7 +20,7 @@
  	       		 <div class="col-xs-3">
     			<div class="col-xs-7">
     				<a href="#">
-             <img class="img-circle img-responsive"  src="./images/Anand K Sapre.jpg">
+             <img class="img-circle img-responsive"  src="./images/Anand Sapre.jpg">
             		<h5 style="text-align:center"><b>Dr. Anand K.Sapre</b> </h5>
             		</a>
 			</div>
