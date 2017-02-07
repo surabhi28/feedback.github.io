@@ -20,7 +20,7 @@
       <tr> 
          <td    ><b>Designation</b></td>
          <td id="height"> 
-        <td      >Professor & Head</td>
+        <td>Senior .Asst. Prof. I.I.P.S. D.A.V.V.,</td>
       </tr>
         <tr> 
         <td    ><b>Specialization</b></td>
@@ -46,23 +46,18 @@
         <tr>
           <td valign="top"     ><b>Phone</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
+          <td       colspan="2" >Office : 91-731- 2461888, Mob. : +91-9827729292</td>
         </tr> 
         <tr>
           <td      ><b>E-Mail id</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" ><a href="mailto:sanjay_tanwani@hotmail.com">sanjay_tanwani@hotmail.com</a> </td>
+          <td       colspan="2" ><i>gor<a href="http://www.google.com/recaptcha/mailhide/d?k=01m7xXkwc1HQS8P1LnRnJFOQ==&c=ynE-kkc2FBDrT9O8fl0BkCAw5Tl7ZWA_RELvzdaEK14=" title="reveal this E-Mail">...</a>@gmail.com </i></td>
         </tr>   
-         
-         <tr>
-          <td      ><b>Address</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" > 58,Katja Colony,Near Collecterate,Indore </td>
-        </tr>  
+          
         <tr>
           <td      ><b>Detailed Resume</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
+          <td       colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbmlsZ29yYXlpaXBzfGd4OjJjZjJhNzA5OWFmYjAwZWI" >Click here...</a> </td>
         </tr>  
       </table>
 
@@ -71,7 +66,7 @@
     </div> <!--row -->
 
      <div class="row">
-      
+    
       <div class="btn-group  text-center person">
             <button type="button" id="mymembership" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a></button>
       
@@ -118,7 +113,18 @@
 
      <div id="research" class="answer_list" >
   <pre>
-* Researches
+ <table class="table table-striped">
+<tr><td>Pursing Ph.D. in Management from School of Future Studies and Planning,
+D.A.V.V., Indore., Research title “Corporate Branching as business strategies in
+India Domestic Observation Future approach” – Summary submitted and
+Research Thesis on verge of submission.</td>
+  <td></td></tr> 
+<tr><td>Guided MRP – Projects to UG &amp; PG Students of Prestige Institute of
+Management Vahishnav Institute of Management and Research, Indore, (I.M.S.)
+D.A.V.V., Indore, I.I.P.S., D.A.V.V., Indore (M.P.).</td>
+<td>1</td></tr>
+
+</table>
 </pre>
       </div>
 
@@ -142,7 +148,22 @@
 
          <div id="publication" class="answer_list" >
   <pre>
-* Publications
+    <table class="table table-striped">
+<tr><td>“Life Cycle Stages and Personal Socioeconomic Behaviour” International
+Conference – Prestige Institute of Management.</td>
+  <td>Feb. 7-8, 2009</td></tr> 
+<tr><td>“Emerging Dimension of Business Education in the New Millennium” 
+– 63 rd Annual Conference of Indian Commerce Association, Goa
+University, Goa.</td>
+<td>Oct. 3 rd 2010</td></tr>
+<tr><td>A Critical Evolutional I.F.R.S. – 64 th All India Commerce Conference –
+Pondicherry University</td>
+<td>Dec. 13, - 15, 2011</td></tr> 
+<tr><td>“F.D.I. in Retail Multi-Brand Stores and Its impact on Conventional
+retail Business of India – 65 th All India Commerce Conference –
+Mumbai University –Mumbai</td>
+<td>Nov. 9-11, 2012</td></tr> 
+</table>
 </pre>
       </div>
 
