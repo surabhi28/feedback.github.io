@@ -28,7 +28,7 @@
         <td >- </td>
       </tr>
         <tr>
-          <td    ><b>Current_Subjects</b></td>
+          <td ><b>Current_Subjects</b></td>
           <td id="height"    ></td>
           <td    >-</td>
         </tr> 
@@ -57,17 +57,17 @@
         </tr>   
          
          <tr>
-          <td      ><b>Address</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >Office address:
+          <td ><b>Address</b></td>
+           <td  id="height" ></td>
+          <td  colspan="2" >Office address:
                     International Institute Of Professional Studies
                     Takshashila Campus, Khandwa Road
                     Indore - 452001, INDIA</td>
         </tr>  
         <tr>
-          <td      ><b>Detailed Resume</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtdXNrYWFuaWlwc3xneDoxZDEwMzhhMWNkNWFlY2E0" >Click here...</a> </td>
+          <td ><b>Detailed Resume</b></td>
+           <td id="height" ></td>
+          <td colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtdXNrYWFuaWlwc3xneDoxZDEwMzhhMWNkNWFlY2E0" >Click here...</a> </td>
         </tr>  
       </table>
 
@@ -109,7 +109,22 @@
     <br/>
 
       <div id="membership" class="answer_list table-responsive">
-  <pre>-</pre>
+  <table class="table table-striped">
+  
+    <tbody>
+      <tr>
+       
+        <td>. Lifetime Membership of “Madhya Pradesh Economic Association” (MPEA)</td>
+        
+      </tr>
+      <tr>
+       
+        <td> Member of DEVTA – Devi Ahilya Vishwavidyalaya Teacher’s Association</td>
+        
+      </tr>
+      
+    </tbody>
+</table>
       </div>
 
      <div id="research" class="answer_list" >
@@ -117,7 +132,7 @@
       </div>
 
          <div id="responsibility" class="answer_list" >
-          <pre>-</pre>
+          <pre>Batch Facilitator</pre>
          </div>
 
          <div id="project" class="answer_list" >

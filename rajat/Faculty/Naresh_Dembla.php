@@ -1,76 +1,83 @@
-<div style="border:2px solid #0b3262; border-radius:10px;">
-    <table align="center" width="85%" height="auto" border="0" class="style3" >
+<div id="profileDiv">
+
+  <div class="row">
+
+    <div class="col-xs-10 col-md-4">
+       <h3 style="margin-left:30px;"> <b>Mr.Naresh Dembla</b></h3>
+          <br/>
+          <center><img class = "img-thumb" src="./images/Naresh Dembla.jpg"  style="border-radius:5px;"></center>
+        </div>
+
+    <div class="col-xs-4 col-md-7">
       <br/>
-      <tr>
-          <td width="30%" rowspan="12">
-          <center><img class = "img-thumbnail" src="./images/Naresh Dembla.jpg" /></center>
-          <h3> <b>Mr. Naresh Dembla</b></h3>
-        </td>
-         
-        
-      </tr>
-      <tr style="margin-left:40px;">
-        <td style="padding-left: 20px;"><b>Qualification</b> </td>
-        <td height="30px" style="padding-left: 20px;"> 
-        <td style="padding-left: 20px;">Ph.D, M.E.(Comp. Eng.)</td>
+      <table class="table table-striped">
+      <tr>  
+        <td><b>Qualification</b> </td>
+        <td id="height"> 
+        <td>B.E, MBA, ME(comp. Eng) , Ph.D(Pursuing)</td>
       </td>
-      <tr > 
-         <td style="padding-left: 20px;"><b>Designation</b></td>
-         <td height="30px" style="padding-left: 20px;"> 
-        <td  style="padding-left: 20px;" >Professor & Head</td>
+    </tr>
+      <tr> 
+         <td ><b>Designation</b></td>
+         <td id="height"> 
+        <td >Lecturer</td>
       </tr>
         <tr> 
-        <td style="padding-left: 20px;"><b>Specialization</b></td>
-          <td height="30px" style="padding-left: 20px;"> 
-        <td style="padding-left: 20px;">Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
+        <td ><b>Specialization</b></td>
+          <td id="height"    > 
+        <td > Business-Statics, Computer Application, DBMS, IT for MANAGERS  </td>
       </tr>
         <tr>
-          <td style="padding-left: 20px;"><b>Current_Subjects</b></td>
-          <td height="30px" style="padding-left: 20px;"></td>
-          <td style="padding-left: 20px;">Software Testing & Q. A. .</td>
+          <td ><b>Current_Subjects</b></td>
+          <td id="height"    ></td>
+          <td    >-</td>
         </tr> 
 
         <tr>
-          <td  style="padding-left: 20px;"><b>Recent_Subjects</b> </td>
-          <td style="padding-left: 20px;" height="30px" ></td>
-          <td style="padding-left: 20px;">Internet & Web Technology .</td>
+          <td     ><b>Recent_Subjects</b> </td>
+          <td     id="height" ></td>
+          <td    >-.</td>
         </tr> 
         <tr>
-          <td  style="padding-left: 20px;" ><b>Industry_Experience</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" > Three Year in Impetus Infotech.</td>
+          <td      ><b>Industry_Experience</b></td>
+           <td     id="height" ></td>
+          <td       colspan="2" >  software and project-trainee at YES-pay –international(UK-Based Company)-1.5 Yrs</td>
         </tr>
         <tr>
-          <td  style="padding-left: 20px;" ><b>Phone</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td   style="padding-left: 20px;" colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
+          <td valign="top"     ><b>Phone</b></td>
+           <td     id="height" ></td>
+          <td       colspan="2" >-</td>
         </tr> 
         <tr>
-          <td  style="padding-left: 20px;" ><b>E-Mail id</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" ><a href="mailto:sanjay_tanwani@hotmail.com">sanjay_tanwani@hotmail.com</a> </td>
+          <td      ><b>E-Mail id</b></td>
+           <td     id="height" ></td>
+          <td       colspan="2" ><a href="mailto:karamchandanimuskan@gmail.com">karamchandanimuskan@gmail.com
+
+</a> </td>
         </tr>   
          
          <tr>
-          <td  style="padding-left: 20px;" ><b>Address</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" > 58,Katja Colony,Near Collecterate,Indore </td>
+          <td ><b>Address</b></td>
+           <td  id="height" ></td>
+          <td  colspan="2" >Office address:
+                    International Institute Of Professional Studies
+                    Takshashila Campus, Khandwa Road
+                    Indore - 452001, INDIA</td>
         </tr>  
         <tr>
-          <td  style="padding-left: 20px;" ><b>Detailed Resume</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
-        </tr>     
-        
-        
-
-      </tr>
-         
+          <td ><b>Detailed Resume</b></td>
+           <td id="height" ></td>
+          <td colspan="2" >  <a href="https://skydrive.live.com/?cid=eebe1e91d291beb6#cid=EEBE1E91D291BEB6&id=EEBE1E91D291BEB6!136" >Click here...</a> </td>
+        </tr>  
       </table>
-          
-     <br /> 
-     
-      <div style="padding-left: 110px;" class="btn-group  text-center person ">
+
+    </div>
+    
+    </div> <!--row -->
+
+     <div class="row">
+      
+      <div class="btn-group  text-center person">
             <button type="button" id="mymembership" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a></button>
       
            
@@ -96,60 +103,118 @@
       </div>
       <div class="btn-group text-center">
           <button type="button" id="mypublication" name="answer" onclick="ShowDiv()" class="btn btn-primary">Publications</button>
-         
-      </div>
-      <div class="btn-group col-md-3 text-center">   
-      </div>
-      
-      </br>
-      </br>
+        
+      </div> 
+    </div>
+    <br/>
 
-      <div id="membership" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
-  <pre>
-* Engineering Graduate in Computer Engineering in 1999.</br> 
-* Associate Member of Institution of Engineers.</br>
-* received Bachelor degree in English Literature in 1995 . </br>
-* completed P.G.D.C.A</br>
-</pre>
+      <div id="membership" class="answer_list table-responsive">
+      <pre></pre>
       </div>
 
-     <div id="research" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
-  <pre>
-* Researches
-</pre>
+     <div id="research" class="answer_list" >
+        <table class="table table-striped">
+           <caption>International Publications</caption>
+          <thead>
+            <tr>
+              <th>S.No.</th>
+              <th>Published Date </th>
+              <th>Research  </th>
+              <th>Topic</th>
+        
+            </tr>
+            </thead>
+            <tbody>
+            <tr><td>1.</td>
+                <td>1-13,2010</td>
+                <td> International Journal of Data Engineering (IJDE), Kuala Lumpur, Malaysia; ISSN:2180-1274, Refereed journal-Authors: Dr. Diwaker shukla, Dr. Rahul Singhai, Naresh-Dembla.
+                </td>
+                <td> "Some imputation methods to treat missing values in knowledge discovery in data warehouse, pp."
+                </td>
+            </tr>
+ 
+           <tr><td>2.</td>
+               <td>December 20-22, 2012</td>
+               <td>nternational-Conference held on  Global Issues and Trends in Health, Management and Technology</td> 
+               <td> “E-BUSINESS AND  ELECTRONIC DATA INTERCHANGE”.
+               </td>
+            </tr>
+             <tr><td>3.</td>
+                <td>December 20-22, 2012</td>
+                <td> International-Conference held  At IMS-DAVV; Nilesh Jain (Porwal), SDPS Women’s College, Indore; Naresh Dembla, International Institute of Professional Studies, DAVV, Indore; Kuntal L. Sharma, Usha Nagar, Indore.</td>
+                <td> "Global Issues and Trends in Health, Management and Technology"</td>
+            </tr>
+          </tbody>
+        </table>
+
+
+        <table class="table table-striped">
+           <caption>National Publications</caption>
+          <thead>
+            <tr>
+              <th>S.No.</th>
+              <th>Published Date </th>
+              <th>Research  </th>
+              <th>Topic</th>
+        
+            </tr>
+            </thead>
+            <tbody>
+            <tr><td>1.</td>
+                <td>5-Aug-2011</td>
+                <td> Prabhandan & Taqniki (Management Research Journal-LNCT-MER, Indore, M.P); ISSN-No.-0974-8563; Mr. Naresh-Dembla/ Dr. Kapil-jain
+                </td>
+                <td> "Information Management in Business Organization using MIS."
+                </td>
+            </tr>
+ 
+           <tr><td>2.</td>
+               <td>Jan-June-2012 </td>
+               <td>Management–Effigy-journal, Shri Vaishnav Institute of Management Indore, Dr Maneesh Kant Arya, Mr. Naresh Dembla.</td> 
+               <td> “Review of factors effecting growth of e-commerce” Vol-III-issue1-ISSN-NO-2249-1643.
+               </td>
+            </tr>
+             <tr><td>3.</td>
+                <td>6-Aug-2012.</td>
+                <td> Prabhandan & Taqniki (Management Research Journal-LNCT-MER, Indore, M.P); ISSN-No.-0974-8563; Mr. Arpit Neema, Mr. Naresh Dembla, Ms. Kratika Neema, Ms. Swati Sood</td>
+                <td> "Impact of Online Shopping on consumer perspective: Empirical analysis in Indore city" </td>
+            </tr>
+
+             <tr><td>4.</td>
+                <td>-</td>
+                <td> At IMS-DAVV; Nilesh Jain (Porwal) SDPS Women’s College, Indore; Naresh Dembla, International Institute of Professional Studies, DAVV, Indore; Kuntal L. Sharma, Usha Nagar</td>
+                <td> "GENERATING POSITIVE WORD OF MOUTH FOR RESTAURANTS IN TIER-2 CITIES”   </td>
+            </tr>
+          </tbody>
+        </table>
+            
       </div>
 
-         <div id="responsibility" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
-  <pre>
-* Responsibilty
-</pre>
+         <div id="responsibility" class="answer_list" >
+          <pre>Batch Facilitator</pre>
+         </div>
+
+         <div id="project" class="answer_list" >
+  <pre>-</pre>
       </div>
 
-         <div id="project" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
-  <pre>
-* Projects
-</pre>
-      </div>
-
-         <div id="presentation" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+         <div id="presentation"  class="answer_list" >
   <pre>
 * Presentations
 </pre>
       </div>
 
-         <div id="publication" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+         <div id="publication" class="answer_list" >
   <pre>
 * Publications
 </pre>
       </div>
 
+
+
       </div>
 
       <script src="./js/faculty_profile.js"></script>
-      <style>
-      .btn-primary
-      {
-        background-color:#0b3262;
-      }
-
-      </style>
+      <link href="css/profile.css" rel="stylesheet">
+<div>
+    
