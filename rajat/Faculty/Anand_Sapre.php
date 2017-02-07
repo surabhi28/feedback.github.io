@@ -14,13 +14,13 @@
       <tr>  
         <td><b>Qualification</b> </td>
         <td id="height"> 
-        <td>Ph.D, M.E.(Comp. Eng.)</td>
+        <td>Ph.D.(Management) , B.E.(Electrical), MBA</td>
       </td>
     </tr>
       <tr> 
          <td    ><b>Designation</b></td>
-         <td id="height"    > 
-        <td      >Professor & Head</td>
+         <td id="height"> 
+        <td> Professor and  former Director  of  IIPS ,DAVV </td>
       </tr>
         <tr> 
         <td    ><b>Specialization</b></td>
@@ -41,7 +41,9 @@
         <tr>
           <td      ><b>Industry_Experience</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" > Three Year in Impetus Infotech.</td>
+          <td       colspan="2" > 1. M/s The  Tata Iron &amp;  Steel Company Jamshedpur (India). work with project division for five years.<br/>
+2. M/s Eicher Motors Ltd. Indore worked   at  managerial   level  forfour years<br/>
+3.Honorary Director on the Board of M/S Indo Power Cables Ltd. Ahemdabad</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
@@ -51,18 +53,14 @@
         <tr>
           <td      ><b>E-Mail id</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" ><a href="mailto:sanjay_tanwani@hotmail.com">sanjay_tanwani@hotmail.com</a> </td>
+          <td       colspan="2" ><i> "aksa"<a href="http://www.google.com/recaptcha/mailhide/d?k=01wpreMGqu23gxDzQ9WvXIWg==&amp;c=Cfwdtf9Z8aLSpHpBbx4Fv1t0K9Acrbmy1AlknF3Zsz0=" title="Reveal this e-mail address" title="reveal this E-Mail">...</a>"gmail.com"
+          </i>
         </tr>   
-         
-         <tr>
-          <td      ><b>Address</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" > 58,Katja Colony,Near Collecterate,Indore </td>
-        </tr>  
+          
         <tr>
           <td      ><b>Detailed Resume</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
+          <td       colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkcmFrc2FwcmV8Z3g6NjMzN2E3MDhjYThjZjAyOQ"  >Click here...</a> </td>
         </tr>  
       </table>
 
@@ -72,7 +70,7 @@
 
      <div class="row">
       
-      <div class="btn-group  text-center person" style="padding-left:110px;">
+      <div class="btn-group  text-center person">
             <button type="button" id="mymembership" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a></button>
       
            
@@ -98,49 +96,70 @@
       </div>
       <div class="btn-group text-center">
           <button type="button" id="mypublication" name="answer" onclick="ShowDiv()" class="btn btn-primary">Publications</button>
-         
-      </div>
-
+        
+      </div> 
     </div>
+    <br/>
 
-      
-      </br>
-      </br>
-
-      <div id="membership" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
-  <pre>
-* Engineering Graduate in Computer Engineering in 1999.</br> 
-* Associate Member of Institution of Engineers.</br>
-* received Bachelor degree in English Literature in 1995 . </br>
-* completed P.G.D.C.A</br>
-</pre>
+      <div id="membership" class="answer_list table-responsive">
+  <table class="table table-striped">
+<tr><td> Confederation of Indian Industry. </td>
+  <td></td></tr> 
+<tr><td> AIMA.</td>
+<td></td></tr>
+<tr><td>Indore Management Association.</td>
+<td></td></tr> 
+<tr><td>
+Member of various committees at Dept. as well as University level of DAVV, Indore.</td>
+<td></td></tr> 
+<tr><td>Faculty of Management Studies, D.A.V.V, Indore.</td>
+<td></td></tr>
+<tr><td>National Entrepreneurship Network, India.</td>
+<td></td></tr>
+<tr><td>University Proctorial Board, D.A.V.V,Indore.</td>
+<td></td></tr>
+</table>
       </div>
 
-     <div id="research" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+     <div id="research" class="answer_list" >
   <pre>
 * Researches
 </pre>
       </div>
 
-         <div id="responsibility" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+         <div id="responsibility" class="answer_list" >
   <pre>
-* Responsibilty
+   <table class="table table-striped">
+<tr><td>1.MBA(DE) Education
+Institute of Mgt Studies,
+Devi Ahilya Vishwavidyalaya, Indore</td>
+  <td>Head</td></tr> 
+<tr><td>2.Sanghvi Inst of Mgt Studies,Indore</td>
+<td>Dean</td></tr>
+<tr><td>3..FMS,
+Acropolis Inst of Tech &amp; Research, Indore</td>
+<td>Director</td></tr> 
+<tr><td>4. I.I.P.S ,
+Devi Ahilya Vishwavidyalaya, Indore</td>
+<td>Director</td></tr>
+
+</table>
 </pre>
       </div>
 
-         <div id="project" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+         <div id="project" class="answer_list" >
   <pre>
 * Projects
 </pre>
       </div>
 
-         <div id="presentation" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+         <div id="presentation"  class="answer_list" >
   <pre>
 * Presentations
 </pre>
       </div>
 
-         <div id="publication" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
+         <div id="publication" class="answer_list" >
   <pre>
 * Publications
 </pre>
