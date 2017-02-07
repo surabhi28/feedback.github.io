@@ -113,7 +113,7 @@
 
      <div id="research" class="answer_list" >
         <pre>Research interest of Prof. Manju sachdeo is Mobile Computing, 
-          Parallel Computing and  Distributed Computing.
+Parallel Computing and  Distributed Computing.
 
 </pre>
       </div>

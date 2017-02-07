@@ -100,8 +100,8 @@
 			<div class="col-xs-3">
     			<div class="col-xs-7">
     				<a href="#" onclick="profile('<?php echo 'Ms_Saluja';?>')">
-		<img class="img-circle img-responsive" src="./images/Manminder Singh.jpg">
-            		<h5 style="text-align:center"><b>Dr.MS Saluja</b></h5>
+		<img class="img-circle img-responsive" src="./images/Ms Saluja.jpg">
+            		<h5 style="text-align:center"><b>Dr.Manminder Singh Saluja</b></h5>
     				</a>
  	      		 </div>
 			</div>
