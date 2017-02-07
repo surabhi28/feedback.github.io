@@ -14,34 +14,34 @@
       <tr>  
         <td><b>Qualification</b> </td>
         <td id="height"> 
-        <td>Ph.D, M.E.(Comp. Eng.)</td>
+        <td>ME(CSE),Ph.D.</td>
       </td>
     </tr>
       <tr> 
          <td    ><b>Designation</b></td>
          <td id="height"> 
-        <td      >Professor & Head</td>
+        <td      >Reader</td>
       </tr>
         <tr> 
         <td    ><b>Specialization</b></td>
           <td id="height"    > 
-        <td    >Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
+        <td    >System Analysis and Design, Operating System, System Programming.</td>
       </tr>
         <tr>
           <td    ><b>Current_Subjects</b></td>
           <td id="height"    ></td>
-          <td    >Software Testing & Q. A. .</td>
+          <td    >Software Engineering & System Analysis and Design .</td>
         </tr> 
 
         <tr>
           <td     ><b>Recent_Subjects</b> </td>
           <td     id="height" ></td>
-          <td    >Internet & Web Technology .</td>
+          <td    >-.</td>
         </tr> 
         <tr>
           <td      ><b>Industry_Experience</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" > Three Year in Impetus Infotech.</td>
+          <td       colspan="2" > -.</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
@@ -51,18 +51,21 @@
         <tr>
           <td      ><b>E-Mail id</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" ><a href="mailto:sanjay_tanwani@hotmail.com">sanjay_tanwani@hotmail.com</a> </td>
+          <td       colspan="2" ><a href="mailto:kirtimatur@gmail.com">kirtimathur@gmail.com</a> </td>
         </tr>   
          
          <tr>
           <td      ><b>Address</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" > 58,Katja Colony,Near Collecterate,Indore </td>
+          <td       colspan="2" >Office address:
+                    International Institute Of Professional Studies
+                    Takshashila Campus, Khandwa Road
+                    Indore - 452001, INDIA</td>
         </tr>  
         <tr>
           <td      ><b>Detailed Resume</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
+          <td       colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxraXJ0aW1hdGh1cmlpcHNkYXZ2fGd4OjQyODU0YmY2NGY4NWVkNzc" >Click here...</a> </td>
         </tr>  
       </table>
 
@@ -105,28 +108,80 @@
 
       <div id="membership" class="answer_list table-responsive">
   <table class="table table-striped">
-<tr><td> Engineering Graduate in Computer Engineering in 1999.</td>
-  <td>1234</td></tr> 
-<tr><td> Associate Member of Institution of Engineers.</td>
-<td>1245</td></tr>
-<tr><td>* received Bachelor degree in English Literature in 1995 .</td>
-<td>457</td></tr> 
-<tr><td>completed P.G.D.C.A</td>
-<td>424</td></tr> 
+   <thead>
+      <tr>
+        <th>Membership No.</th>
+        <th>Membership Name</th>
+        
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>-</td>
+        <td>Member Board of studies of Computer Sciences, DAVV, Indore.</td>
+        
+      </tr>
+      <tr>
+        <td>A- 5243816</td>
+        <td>Life member of Institution of Engineers (IEI), Kolkata, India.</td>
+        
+      </tr>
+      <tr>
+        <td>120692.</td>
+        <td>Life member of International Association of Engineers (IAENG).</td>
+       
+      </tr>
+    </tbody>
 </table>
       </div>
 
      <div id="research" class="answer_list" >
-  <pre>
-* Researches
-</pre>
+        <table class="table table-striped">
+          <thead>
+            <tr>
+            <th>Research </th>
+             <th>Description</th>
+        
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+            <td>International Research publication in Journal</td>
+            <td>Fatima Kirti Mathur “Tailoring KPA(Key Process Area) of CMM (Capability Maturity Model) to Accede with RUP (Rational Unified Process)” ISSN: 2277 – 9043) in the International Journal of Advanced Research in Computer Science and Electronics Engineering (IJARCSEE) Volume 1, Issue 7, September 2012.</td>
+        
+            </tr>
+            
+           </tbody>
+      </table>
       </div>
 
          <div id="responsibility" class="answer_list" >
-  <pre>
-* Responsibilty
-</pre>
-      </div>
+         <table class="table table-striped ">
+            <tr>
+              <td>
+              She has more than 14 years of Computer Science/IT  teaching  experience.
+              During this period she has served IIPS as multiple roles like:
+            </td></tr>
+            <tr><td>
+              Program In-charge of M.Tech(IT).
+              Program In-charge of MCA.
+          </td> </tr>
+          <tr><td>
+            Now she is Overall Course in-charge of MCA and M.Tech(IT) courses.
+          </td></tr>
+          <tr><td>
+          She is member of various departmental committee at institute and department level.
+          </td></tr>
+         <tr><td> 
+          Her area of interest is Software Engineering, Operating System and Project management.
+         </td></tr>
+         <tr><td>
+          She is reviewer and  member of Editorial Board of various International Journals.
+           </td></tr>
+                    
+           
+      </table>
+         </div>
 
          <div id="project" class="answer_list" >
   <pre>

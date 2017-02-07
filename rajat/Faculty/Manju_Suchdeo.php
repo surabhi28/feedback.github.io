@@ -3,9 +3,9 @@
   <div class="row">
 
     <div class="col-xs-10 col-md-4">
-       <h3 style="margin-left:30px;"> <b>Ms. Kirti Vijayawargiya </b></h3>
+       <h3 style="margin-left:30px;"> <b>Ms.Manju Suchdeo</b></h3>
           <br/>
-          <center><img class = "img-thumb" src="./images/Kirti Vijayawargiya.jpg" / style="border-radius:5px;"></center>
+          <center><img class = "img-thumb" src="./images/Manju Suchdeo.jpg" / style="border-radius:5px;"></center>
         </div>
 
     <div class="col-xs-4 col-md-7">
@@ -14,45 +14,45 @@
       <tr>  
         <td><b>Qualification</b> </td>
         <td id="height"> 
-        <td>MCA,UGC-NET(CS)</td>
+        <td>M.Tech(CS), M.Sc(IT)</td>
       </td>
     </tr>
       <tr> 
-         <td    ><b>Designation</b></td>
+         <td ><b>Designation</b></td>
          <td id="height"> 
-        <td >Associate Professor</td>
+        <td >Reader</td>
       </tr>
         <tr> 
-        <td><b>Specialization</b></td>
+        <td ><b>Specialization</b></td>
           <td id="height"    > 
-        <td >-</td>
+        <td    >    Parallel Processing ,Mobile Computing, Operating  Systems, Object Oriented Programming using Java,
+     Object Oriented Analysis and Design </td>
       </tr>
         <tr>
-          <td  ><b>Current_Subjects</b></td>
+          <td    ><b>Current_Subjects</b></td>
           <td id="height"    ></td>
-          <td >-</td>
+          <td    >-</td>
         </tr> 
 
         <tr>
-          <td ><b>Recent_Subjects</b> </td>
-          <td id="height" ></td>
-          <td >-.</td>
+          <td     ><b>Recent_Subjects</b> </td>
+          <td     id="height" ></td>
+          <td    >-.</td>
         </tr> 
         <tr>
-          <td  ><b>Industry_Experience</b></td>
-           <td id="height" ></td>
-          <td  colspan="2" > 3 years of  industry experience in Tata consultancy Services, Mumbai as Assistant  Programmer. She has worked as Assistant System Programmer in IT Centre.</td>
-       </td>
+          <td      ><b>Industry_Experience</b></td>
+           <td     id="height" ></td>
+          <td       colspan="2" > -.</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
-           <td id="height" ></td>
-          <td colspan="2" > -</td>
+           <td     id="height" ></td>
+          <td       colspan="2" >-</td>
         </tr> 
-        <tr> 
-          <td><b>E-Mail id</b></td>
-           <td id="height" ></td>
-          <td colspan="2" ><a href="mailto:keerti_vijay@rediffmail.com">keerti_vijay@rediffmail.com</a> </td>
+        <tr>
+          <td      ><b>E-Mail id</b></td>
+           <td     id="height" ></td>
+          <td       colspan="2" ><a href="mailto:manju_suchdeo@yahoo.co.in">manju_suchdeo@yahoo.co.in</a> </td>
         </tr>   
          
          <tr>
@@ -64,10 +64,10 @@
                     Indore - 452001, INDIA</td>
         </tr>  
         <tr>
-          <td  ><b>Detailed Resume</b></td>
-           <td id="height" ></td>
-          <td  colspan="2" >  <a="href=https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxraXJ0aXZpamF5dmFyZ2l5YWlpcHN8Z3g6NzAwNzRjNjFhMDY1YWQ0Mg" >Click here...</a> </td>
-        </tr>
+          <td      ><b>Detailed Resume</b></td>
+           <td     id="height" ></td>
+          <td       colspan="2" >  <a href="https://docs.google.com/a/iips.edu.in/viewer?a=v&pid=sites&srcid=aWlwcy5lZHUuaW58bWFuanUtc3VjaGRlb3xneDo0MDJhNWFhZjA0OWExM2Y2" >Click here...</a> </td>
+        </tr>  
       </table>
 
     </div>
@@ -112,11 +112,23 @@
       </div>
 
      <div id="research" class="answer_list" >
-        <pre>-</pre>
+        <pre>Research interest of Prof. Manju sachdeo is Mobile Computing, 
+          Parallel Computing and  Distributed Computing.
+
+</pre>
       </div>
 
          <div id="responsibility" class="answer_list" >
-          <pre>Batch Facilitator</pre>
+         <table class="table table-striped ">
+            <tr><td> Program Incharge of M. Tech from July-2012</td></tr> 
+            <tr><td> Classroom teaching of MCA and M.Tech Courses </td></tr> 
+       <tr><td>Project Guide of MCA (PG and UG level) and M.Tech.(IT) Courses.</td></tr>
+   <tr><td>Time Table preparation and Tracking</td></tr>
+   <tr><td>Coordinator of Comprehensive ViVa, Project Viva and Lab Viva of MCA , MTech (IT) .</td></tr>
+   <tr><td>Grading Assignments, Checking examination copies.</td></tr>
+    <tr><td>Organizing Expert talks , seminars, other academic  & cultural events in department.
+            </td></tr>    
+      </table>
          </div>
 
          <div id="project" class="answer_list" >
@@ -125,25 +137,24 @@
       <tr>
         <th>Project </th>
         <th>Description</th>
-        <th>Responsibility</th>
+       
         
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>CIN-Channels Intranet</td>
-        <td>[ This project is a portfolio consisting internet and intranet sites of ABN AMRO Bank ]</td>
-        <td>She has worked as Tech Lead having responsibilities of requirement analysis, technical design, coding, effort estimation and Interaction with clients.</td>
+        <td>Performance evolution of various MANET routing protocols for pareto traffic using simulation </td>
+        <td>[This project evaluates performance of four Ad Hoc protocols namely DSDV,AODV,DSR and OLSR for pareto using simulation.]</td>
+    
       </tr>
       <tr>
-        <td>CAESAR Delivery Tracker</td>
-        <td>[ The main objective of the application are  Manage Delivery, Maintain Issue Logs and Weekly status reporting.]</td>
-        <td> She has worked as Module Lead having responsibilities of  impact analysis and implementation of change request during maintenance phase,  interaction with client, assist the client in deployment of application and prepared technical design document.</td>
+        <td>TALASH(The Quest Box) (Analysis And Design part)</td>
+        <td> [This project is an information system created for  information maintenance and retrieval system.]</td>
+      
       </tr>
       <tr>
-        <td>File Tracking System </td>
-        <td> [ This  module  is aimed  at keeping records of scholars and the funding agencies and it generates the scholarship slip like pay slip and also generates various reports.]</td>
-       <td> She has worked as Programmer having responsibilities  of  gathering requirement from the client, requirement analysis, design,    development and unit testing.</td>
+        <td>Examination system(Analysis And Design part)</td>
+        <td> [ This project was aimed to automate the examination system of School of Computer Science with minimum intervention of human being]</td>
       </tr>
     </tbody>
 </table>

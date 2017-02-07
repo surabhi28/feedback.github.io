@@ -30,9 +30,9 @@
 
 			<div class="col-xs-6 col-sm-4 col-md-3">
     			<div class="col-xs-7">
-    				<a href="#" onclick="profile('<?php echo 'Manju_Suchdev';?>')">
-		<img class="img-circle img-responsive" src="./images/Manju Suchdev.jpg">
-            		<h5 style="text-align:center"><b>Ms. Manju Sachdev</b></h5>
+    				<a href="#" onclick="profile('<?php echo 'Manju_Suchdeo';?>')">
+		<img class="img-circle img-responsive" src="./images/Manju Suchdeo.jpg">
+            		<h5 style="text-align:center"><b>Ms. Manju Sachdeo</b></h5>
             	</a>
  	      		 </div>
 			</div>
