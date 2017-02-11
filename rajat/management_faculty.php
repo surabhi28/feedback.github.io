@@ -42,9 +42,9 @@
 		<div class="row" "padding-left:20px">
 			<div class="col-xs-3">
     			<div class="col-xs-7">
-    				<a href="#" onclick="profile('<?php echo 'Geeta_Neema';?>')">
-		<img class="img-circle img-responsive" src="./images/Geeta Neema.jpg">
-            		<h5 style="text-align:center"><b>Dr. Geeta Neema</b></h5>.
+    				<a href="#" onclick="profile('<?php echo 'Geeta_Nema';?>')">
+		<img class="img-circle img-responsive" src="./images/Geeta Nema.jpg">
+            		<h5 style="text-align:center"><b>Dr. Geeta Nema</b></h5>.
             		</a>
  	      		 </div>
 			</div>
