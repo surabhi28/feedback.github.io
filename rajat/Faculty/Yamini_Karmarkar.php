@@ -77,7 +77,7 @@
       </div>
       
       <div class="btn-group text-center">
-          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Researchs</a></button>
+          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Research Areas</a></button>
             
       </div>
       <div class="btn-group text-center ">
@@ -123,7 +123,7 @@
 <tr><td>IIPS, Devi Ahilya University, Indore</td><td>Program Incharge MBA(MS 2yrs)</td></tr>
 <tr><td>IIPS, Devi Ahilya University, Indore</td><td>PhD Supervisor</td></tr>
 <tr><td>IIPS, Devi Ahilya University, Indore</td><td>Associate Professor</td></tr>
-<tr><td>YI-IIPS, Devi Ahilya University, Indore</td><td>Net Coodrinator</td></tr>
+<tr><td>YI-IIPS, Devi Ahilya University, Indore</td><td>Net Coordinator</td></tr>
 <tr><td>IQAC Cells</td><td>Incharge</td></tr> 
 <tr><td>Birla Global Finance Ltd, Mumbai</td><td>Former Assistant Manager</td></tr>
 

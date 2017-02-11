@@ -72,7 +72,7 @@ Honorary Director on the Board of M/S Indo Power Cables Ltd. Ahemdabad</td>
       </div>
       
       <div class="btn-group text-center">
-          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Researchs</a></button>
+          <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Research Areas</a></button>
             
       </div>
       <div class="btn-group text-center ">
