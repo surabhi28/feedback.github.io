@@ -67,7 +67,7 @@
           <li><a href="#" onclick="profile('<?php echo 'Anand_Sapre';?>')"><img src="./images/male.jpg" class="icon"></i>Dr.  Anand K. Sapre</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Yamini_Karmarkar';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Yamini Karmarkar</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Geeta_Sharma';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Geeta Sharma</a></li>
-          <li><a href="#" onclick="profile('<?php echo 'Geeta_Neema';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Geeta Nema</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Geeta_Neema';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Geeta Neema</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Jyoti_Sharma';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Jyoti Sharma</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Manish_Sitlani';?>')"><img src="./images/male.jpg" class="icon"></i>Dr. Manish Sitlani</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Preeti_Singh';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Preeti Singh</a></li>

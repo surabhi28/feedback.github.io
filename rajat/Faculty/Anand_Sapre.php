@@ -14,46 +14,41 @@
       <tr>  
         <td><b>Qualification</b> </td>
         <td id="height"> 
-        <td>Ph.D.(Management) , B.E.(Electrical), MBA</td>
+        <td>Ph.D.(Management)<br/>MBA<br/>B.E.(Electrical Engineering)</td>
       </td>
     </tr>
       <tr> 
          <td    ><b>Designation</b></td>
          <td id="height"> 
-        <td> Professor and  former Director  of  IIPS ,DAVV </td>
+        <td> Professor and  Former Director  of  IIPS-DAVV </td>
       </tr>
         <tr> 
         <td    ><b>Specialization</b></td>
-          <td id="height"    > 
-        <td    >Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
+          <td id="height"> 
+        <td>Management</td>
       </tr>
         <tr>
-          <td    ><b>Current_Subjects</b></td>
+          <td    ><b>Current Subjects</b></td>
           <td id="height"    ></td>
-          <td    >Software Testing & Q. A. .</td>
+          <td>Marketing Decisions<br/>Sales and Distributions<br/>Strategies and Modeling</td>
         </tr> 
 
         <tr>
-          <td     ><b>Recent_Subjects</b> </td>
-          <td     id="height" ></td>
-          <td    >Internet & Web Technology .</td>
-        </tr> 
-        <tr>
-          <td      ><b>Industry_Experience</b></td>
+          <td      ><b>Industry Experience</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" > 1. M/s The  Tata Iron &amp;  Steel Company Jamshedpur (India). work with project division for five years.<br/>
-2. M/s Eicher Motors Ltd. Indore worked   at  managerial   level  forfour years<br/>
-3.Honorary Director on the Board of M/S Indo Power Cables Ltd. Ahemdabad</td>
+          <td       colspan="2" > Tata Iron & Steel Company Jamshedpur(India)<br/>(work with Project Division for 5 years)<br/><br/>
+Eicher Motors Ltd. Indore<br/>(worked at Managerial level for 4 years)<br/><br/>
+Honorary Director on the Board of M/S Indo Power Cables Ltd. Ahemdabad</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
+          <td       colspan="2" > +91-731-2470027 (O)<br/>+91-731-2364062 (H)<br/>+91 98266-23640</td>
         </tr> 
         <tr>
-          <td      ><b>E-Mail id</b></td>
+          <td      ><b>E-Mail ID</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" ><i> aksa<a href="http://www.google.com/recaptcha/mailhide/d?k=01wpreMGqu23gxDzQ9WvXIWg==&amp;c=Cfwdtf9Z8aLSpHpBbx4Fv1t0K9Acrbmy1AlknF3Zsz0="  title="reveal this E-Mail">...</a>gmail.coms
+          <td       colspan="2" ><i> aksa<a href="http://www.google.com/recaptcha/mailhide/d?k=01wpreMGqu23gxDzQ9WvXIWg==&amp;c=Cfwdtf9Z8aLSpHpBbx4Fv1t0K9Acrbmy1AlknF3Zsz0="  title="reveal this E-Mail">...</a>gmail.com
           </i>
         </tr>   
           
@@ -103,66 +98,55 @@
 
       <div id="membership" class="answer_list table-responsive">
   <table class="table table-striped">
-<tr><td> Confederation of Indian Industry. </td>
-  <td></td></tr> 
-<tr><td> AIMA.</td>
-<td></td></tr>
-<tr><td>Indore Management Association.</td>
-<td></td></tr> 
-<tr><td>
-Member of various committees at Dept. as well as University level of DAVV, Indore.</td>
-<td></td></tr> 
-<tr><td>Faculty of Management Studies, D.A.V.V, Indore.</td>
-<td></td></tr>
-<tr><td>National Entrepreneurship Network, India.</td>
-<td></td></tr>
-<tr><td>University Proctorial Board, D.A.V.V,Indore.</td>
-<td></td></tr>
+<tr><td> Confederation of Indian Industry</td></tr> 
+<tr><td> AIMA</td></tr>
+<tr><td>Indore Management Association</td></tr> 
+<tr><td>Member of various committees at Department as well as University level, DAVV, Indore</td></tr> 
+<tr><td>Faculty of Management Studies, DAVV, Indore</td></tr>
+<tr><td>National Entrepreneurship Network, India</td></tr>
+<tr><td>University Proctorial Board, DAVV, Indore</td></tr>
+<tr><td>AIMS International</td></tr>
 </table>
       </div>
 
      <div id="research" class="answer_list" >
-  <pre>
-* Researches
-</pre>
+  <table class="table table-striped">
+No Researches to show
+</table>
       </div>
 
          <div id="responsibility" class="answer_list" >
-  <pre>
    <table class="table table-striped">
-<tr><td>1.MBA(DE) Education
-Institute of Mgt Studies,
-Devi Ahilya Vishwavidyalaya, Indore</td>
+<tr><td>MBA(DE) Education Institute of Management Studies, DAVV, Indore</td>
   <td>Head</td></tr> 
-<tr><td>2.Sanghvi Inst of Mgt Studies,Indore</td>
+<tr><td>Sanghvi Inst of Mgt Studies,Indore</td>
 <td>Dean</td></tr>
-<tr><td>3..FMS,
-Acropolis Inst of Tech &amp; Research, Indore</td>
+<tr><td>FMS, Acropolis Inst of Tech & Research, Indore</td>
 <td>Director</td></tr> 
-<tr><td>4. I.I.P.S ,
-Devi Ahilya Vishwavidyalaya, Indore</td>
-<td>Director</td></tr>
+<tr><td>International Institute of Professional Studies,
+DAVV, Indore</td>
+<td>Former Director</td></tr>
 
 </table>
-</pre>
       </div>
 
          <div id="project" class="answer_list" >
-  <pre>
-* Projects
-</pre>
+   <table class="table table-striped">
+No Projects to show
+</table>
       </div>
 
          <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
+   <table class="table table-striped">
+    <tr><td><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkcmFrc2FwcmV8Z3g6NjQ4ZTYwYTY2Mzk3OWE4NQ">Basics of Marketing</a></td></tr>
+    <tr><td><a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkcmFrc2FwcmV8Z3g6MzZlM2UzMTk5ODkzOGRlOQ">Personal Selling</a></td></tr>
+</table>
       </div>
 
          <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
+  <table class="table table-striped">
+No Publications to show
+</table>
       </div>
 
 
