@@ -14,55 +14,51 @@
       <tr>  
         <td><b>Qualification</b> </td>
         <td id="height"> 
-        <td>Ph.D, M.E.(Comp. Eng.)</td>
+        <td>MCA</td>
       </td>
     </tr>
       <tr> 
          <td    ><b>Designation</b></td>
          <td id="height"> 
-        <td      >Professor & Head</td>
+        <td>Lecturer at IIPS , DAVV</td>
       </tr>
         <tr> 
         <td    ><b>Specialization</b></td>
           <td id="height"    > 
-        <td    >Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
+        <td>Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
       </tr>
         <tr>
-          <td    ><b>Current_Subjects</b></td>
+          <td><b>Current_Subjects</b></td>
           <td id="height"    ></td>
-          <td    >Software Testing & Q. A. .</td>
+          <td>Software Testing & Q. A. .</td>
         </tr> 
 
         <tr>
-          <td     ><b>Recent_Subjects</b> </td>
+          <td><b>Recent_Subjects</b> </td>
           <td     id="height" ></td>
           <td    >Internet & Web Technology .</td>
         </tr> 
         <tr>
-          <td      ><b>Industry_Experience</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" > Three Year in Impetus Infotech.</td>
+          <td><b>Industry_Experience</b></td>
+           <td id="height" ></td>
+          <td colspan="2" > Three Year in Impetus Infotech.</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
+           <td id="height" ></td>
+          <td  colspan="2" > Phone: 91-731-2461888, 2462087, 2461332, 2760101
+           Fax - 91-731-2467888</td>
         </tr> 
         <tr>
-          <td      ><b>E-Mail id</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" ><a href="mailto:sanjay_tanwani@hotmail.com">sanjay_tanwani@hotmail.com</a> </td>
-        </tr>   
-         
-         <tr>
-          <td      ><b>Address</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" > 58,Katja Colony,Near Collecterate,Indore </td>
+          <td><b>E-Mail id</b></td>
+           <td id="height" ></td>
+          <td   colspan="2" ><i>bas<a href="http://www.google.com/recaptcha/mailhide/d?k=01m7xXkwc1HQS8P1LnRnJFOQ==&c=AdFpm-Rh6bZFcI2DYGVn0IfxV-wFpZIKpds7HVAEX4Q=" title="reveal this E-Mail">...</a>@gmail.com</i> </td>
         </tr>  
+        
         <tr>
-          <td      ><b>Detailed Resume</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
+          <td><b>Detailed Resume</b></td>
+           <td  id="height" ></td>
+          <td colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
         </tr>  
       </table>
 
@@ -105,14 +101,12 @@
 
       <div id="membership" class="answer_list table-responsive">
   <table class="table table-striped">
-<tr><td> Engineering Graduate in Computer Engineering in 1999.</td>
-  <td>1234</td></tr> 
-<tr><td> Associate Member of Institution of Engineers.</td>
-<td>1245</td></tr>
-<tr><td>* received Bachelor degree in English Literature in 1995 .</td>
-<td>457</td></tr> 
-<tr><td>completed P.G.D.C.A</td>
-<td>424</td></tr> 
+<tr><td>Member of International Association of Engineers (IAENG), Hong Kong.</td>
+  <td></td></tr> 
+<tr><td>Member of Computer Science Teachers Association(CSTA), New York</td>
+<td></td></tr>
+<tr><td>Member of Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (ICST), Belgium</td>
+<td></td></tr> 
 </table>
       </div>
 

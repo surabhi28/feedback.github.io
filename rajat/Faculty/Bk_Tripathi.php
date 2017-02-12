@@ -18,17 +18,17 @@
       </td>
     </tr>
       <tr> 
-         <td    ><b>Designation</b></td>
+         <td><b>Designation</b></td>
          <td id="height"> 
         <td      > Director of IIPS , DAVV</td>
       </tr>
         <tr> 
-        <td    ><b>Specialization</b></td>
+        <td><b>Specialization</b></td>
           <td id="height"    > 
-        <td    >All HR areas</td>
+        <td>All HR areas</td>
       </tr>
         <tr>
-          <td    ><b>Current_Subjects</b></td>
+          <td><b>Current_Subjects</b></td>
           <td id="height"    ></td>
           <td >Human Resourse Development</td>
         </tr> 
