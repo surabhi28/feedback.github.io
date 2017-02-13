@@ -35,7 +35,7 @@
           <i class="fa fa-laptop" ></i> <span>Computer Faculty</span>
           <i class="fa fa-angle-left pull-right"></i>
         </a>
-        <ul class="sidebar-submenu" style="overflow-y:scroll; overflow-x:hidden; height:285px; background-color:#0b3262">
+        <ul class="sidebar-submenu" style="overflow-y:scroll; overflow-x:hidden; height:285px; background-color:#0b3262" id="scroll">
           <li><a href="#" onclick="profile('<?php echo 'Ramesh_Thakur';?>')"><img src="./images/male.jpg" img src="./images/male.jpg" class="icon">Dr. Ramesh Thakur</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Kirti_Mathur';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Kirti Mathur</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Jugendra_Dongre';?>')"><img src="./images/male.jpg" class="icon"></i>Mr. Jugendra Dongre</a></li>
