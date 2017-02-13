@@ -54,8 +54,7 @@ Fax - 91-731-2467888</td>
         <tr>
           <td      ><b>E-Mail id</b></td>
            <td     id="height" ></td>
-          <td       colspan="2" ><i> "kir"<a href="http://www.google.com/recaptcha/mailhide/d?k=01wpreMGqu23gxDzQ9WvXIWg==&amp;c=Cfwdtf9Z8aLSpHpBbx4Fv1t0K9Acrbmy1AlknF3Zsz0=" title="Reveal this e-mail address" title="reveal this E-Mail">...</a>"gmail.com"
-          </i> </td>
+          <td       colspan="2" >-</td>
         </tr>   
          
          
