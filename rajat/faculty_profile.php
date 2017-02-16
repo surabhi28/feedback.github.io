@@ -10,6 +10,7 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/newfile.css" rel="stylesheet">
+    <link href="css/pace.css" rel="stylesheet">
 	<link href="css/profile.css" rel="stylesheet">
 	
     <link href="font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
@@ -24,19 +25,12 @@
       .content{
         display:none;
       }
-      .preload{
-        margin:0;
-        position: absolute;
-        top:50%;
-        left:50%;
-        margin-right: -50%;
-        transform:translate(-50% ,-50%);
-      }
+      
     </style>
   </head>
   <body>
-  <div class="preload">
-<img src="./images/loading.gif" />
+ <div class="preload">
+<!--<img src="./images/loading.gif" />-->
 </div>
 <div class="content">
 <?php include 'header.php';?>
@@ -144,13 +138,14 @@
   <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
    <script src="https://ajax.gooogleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="./js/faculty_profile.js"></script>
+  <script src="./js/pace.js"></script>
   <script src="./js/sidebar-menu.js"></script>
   <script>
     $.sidebarMenu($('.sidebar-menu'))
   </script>
   <script>
   $(function(){
-    $(".preload").fadeOut(2000,function(){
+    $(".preload").fadeOut(1000,function(){
       $(".content").fadeIn(1000);
       
 
