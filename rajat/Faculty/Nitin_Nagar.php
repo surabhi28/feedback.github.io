@@ -1,76 +1,63 @@
-<div style="border:2px solid #0b3262; border-radius:10px;">
-    <table align="center" width="85%" height="auto" border="0" class="style3" >
+<div id="profileDiv">
+
+  <div class="row">
+
+    <div class="col-xs-10 col-md-4">
+       <h3 style="margin-left:30px;"> <b>Nitin Nagar</b></h3>
+          <br/>
+          <center><img class = "img-thumb" src="./images/Nitin Nagar.jpg"  style="border-radius:5px;"></center>
+        </div>
+
+    <div class="col-xs-4 col-md-7">
       <br/>
-      <tr>
-          <td width="30%" rowspan="12">
-          <center><img class = "img-thumbnail" src="./images/Nitin Nagar.jpg" /></center>
-          <h3> <b>Mr. Nitin Nagar</b></h3>
-        </td>
-         
-        
-      </tr>
-      <tr style="margin-left:40px;">
-        <td style="padding-left: 20px;"><b>Qualification</b> </td>
-        <td height="30px" style="padding-left: 20px;"> 
-        <td style="padding-left: 20px;">Ph.D, M.E.(Comp. Eng.)</td>
+      <table class="table table-striped">
+      <tr>  
+        <td><b>Qualification</b> </td>
+        <td id="height"> 
+        <td>BCA,MCA,Ph.D(pursuing)</td>
       </td>
-      <tr > 
-         <td style="padding-left: 20px;"><b>Designation</b></td>
-         <td height="30px" style="padding-left: 20px;"> 
-        <td  style="padding-left: 20px;" >Professor & Head</td>
+    </tr>
+      <tr> 
+         <td ><b>Designation</b></td>
+         <td id="height"> 
+        <td >Lecturer</td>
       </tr>
         <tr> 
-        <td style="padding-left: 20px;"><b>Specialization</b></td>
-          <td height="30px" style="padding-left: 20px;"> 
-        <td style="padding-left: 20px;">Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
+        <td ><b>Specialization</b></td>
+          <td id="height"    > 
+        <td >- </td>
       </tr>
         <tr>
-          <td style="padding-left: 20px;"><b>Current_Subjects</b></td>
-          <td height="30px" style="padding-left: 20px;"></td>
-          <td style="padding-left: 20px;">Software Testing & Q. A. .</td>
-        </tr> 
-
-        <tr>
-          <td  style="padding-left: 20px;"><b>Recent_Subjects</b> </td>
-          <td style="padding-left: 20px;" height="30px" ></td>
-          <td style="padding-left: 20px;">Internet & Web Technology .</td>
-        </tr> 
-        <tr>
-          <td  style="padding-left: 20px;" ><b>Industry_Experience</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" > Three Year in Impetus Infotech.</td>
+          <td ><b>Industry_Experience</b></td>
+           <td  id="height" ></td>
+          <td colspan="2" >-</td>
         </tr>
         <tr>
-          <td  style="padding-left: 20px;" ><b>Phone</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td   style="padding-left: 20px;" colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
+          <td valign="top"     ><b>Phone</b></td>
+           <td id="height" ></td>
+          <td colspan="2" >-</td>
         </tr> 
         <tr>
-          <td  style="padding-left: 20px;" ><b>E-Mail id</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" ><a href="mailto:sanjay_tanwani@hotmail.com">sanjay_tanwani@hotmail.com</a> </td>
+          <td><b>E-Mail id</b></td>
+           <td id="height" ></td>
+          <td colspan="2" ><a href="#">-</a> </td>
         </tr>   
          
-         <tr>
-          <td  style="padding-left: 20px;" ><b>Address</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" > 58,Katja Colony,Near Collecterate,Indore </td>
-        </tr>  
-        <tr>
-          <td  style="padding-left: 20px;" ><b>Detailed Resume</b></td>
-           <td style="padding-left: 20px;" height="30px" ></td>
-          <td  style="padding-left: 20px;"  colspan="2" >  <a href="http://www.scs.dauniv.ac.in/faculty/Resume/Sanjay_Tanwani.pdf" >Click here...</a> </td>
-        </tr>     
-        
-        
-
-      </tr>
          
+        <tr>
+          <td ><b>Detailed Resume</b></td>
+           <td id="height" ></td>
+          <td colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxuaXRpbm5hZ2Fyc2l0ZXxneDoxYTkwZTQzNzMyMmFkZjkx" >Click here...</a> </td>
+        </tr>  
       </table>
-          
-     <br /> 
-     
-      <div style="padding-left: 110px;" class="btn-group  text-center person ">
+
+    </div>
+    
+    </div> <!--row -->
+
+     <div class="row">
+      
+      <div class="btn-group  text-center person">
             <button type="button" id="mymembership" name="answer" onclick="ShowDiv()" class="btn btn-primary person "> Memberships</a></button>
       
            
@@ -96,60 +83,98 @@
       </div>
       <div class="btn-group text-center">
           <button type="button" id="mypublication" name="answer" onclick="ShowDiv()" class="btn btn-primary">Publications</button>
-         
-      </div>
-      <div class="btn-group col-md-3 text-center">   
-      </div>
-      
-      </br>
-      </br>
+        
+      </div> 
+    </div>
+    <br/>
 
-      <div id="membership" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
-  <pre>
-* Engineering Graduate in Computer Engineering in 1999.</br> 
-* Associate Member of Institution of Engineers.</br>
-* received Bachelor degree in English Literature in 1995 . </br>
-* completed P.G.D.C.A</br>
-</pre>
+      <div id="membership" class="answer_list table-responsive">
+      <pre>-</pre>
       </div>
 
-     <div id="research" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
-  <pre>
-* Researches
-</pre>
+     <div id="research" class="answer_list" >
+        <pre>-</pre>
       </div>
 
-         <div id="responsibility" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
-  <pre>
-* Responsibilty
-</pre>
+         <div id="responsibility" class="answer_list" >
+           <table class="table table-striped">
+           <caption>Various Responsibilities in department</caption>
+          
+           
+            <tr><td> In-Charge Placement (Computers) and Electronics Lab.</td></tr>
+                <tr><td> Batch facilitator of M.Tech and MCA IX semester</td></tr>
+                <tr> <td> Part of discipline team</td></tr>
+            
+           </table>
+           <table class="table table-striped">
+           <caption>Various Responsibilities from University </caption>
+          
+          
+            <tr><td>  OSD (Officer on Special Duty) from 19-July 2011 to till date.</td></tr>
+           <tr> <td> Appointed as external examiner in a various DAVV’s Affiliated Colleges</td></tr>
+        
+           </table>
+              
+         </div>
+
+         <div id="project" class="answer_list" >
+        <table class="table table-striped">
+           <caption> Projects</caption>
+          <thead>
+            <tr>
+              <th>S.No.</th>
+              <th>Project Name </th>
+              <th>Organization Name </th>
+              <th>Technology</th>
+              <th>Status</th>
+              <th>Remarks</th>
+        
+            </tr>
+            </thead>
+            <tbody>
+            <tr><td>1.</td>
+                <td>Online Test Manager</td>
+                <td> SCSIT,Indore</td>
+                <td> JSP, Servet, Java -Script,MySQL</td>
+                <td>Completed</td>
+                <td>Provided Solutions for Internal Examinations of Institute</td>
+            </tr>
+            <tr><td>2.</td>
+                <td>SAMADHAN</td>
+                <td> SBA & Company Indore</td>
+                <td> VB.Net 2005,SQL Server-2000</td>
+                <td>Completed & Deployed</td>
+                <td>Automated  Accounting System for Chartered Accounting Firms </td>
+            </tr>
+            <tr><td>3.</td>
+                <td>Automation of Steel Supplying Plant</td>
+                <td>Jain Steel Indore</td>
+                <td> Visual Basic 6.0 MS-Access</td>
+                <td>Completed & Deployed</td>
+                <td>Designed & Developed a fully Automated System for the Organization</td>
+            </tr>
+            <tr><td>4.</td>
+                <td>Text Editor</td>
+                <td> Dummy </td>
+                <td>“C” language</td>
+                <td>Completed</td>
+                <td>Developed an application similar to notepad</td>
+            </tr>
+          </tbody>
+          </table>
       </div>
 
-         <div id="project" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
-  <pre>
-* Projects
-</pre>
+         <div id="presentation"  class="answer_list" >
+      <pre>* Presentations</pre>
       </div>
 
-         <div id="presentation" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
-      </div>
-
-         <div id="publication" style=" border-radius:15px; text-align:left; display:none; margin-left:110px; background-color: lightgrey; width:637px"  class="answer_list" >
-  <pre>
-* Publications
-</pre>
+         <div id="publication" class="answer_list" >
+  <pre>* Publications</pre>
       </div>
 
       </div>
 
       <script src="./js/faculty_profile.js"></script>
-      <style>
-      .btn-primary
-      {
-        background-color:#0b3262;
-      }
-
-      </style>
+      <link href="css/profile.css" rel="stylesheet">
+<div>
+    

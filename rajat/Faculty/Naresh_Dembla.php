@@ -27,43 +27,26 @@
           <td id="height"    > 
         <td > Business-Statics, Computer Application, DBMS, IT for MANAGERS  </td>
       </tr>
+        
         <tr>
-          <td ><b>Current_Subjects</b></td>
-          <td id="height"    ></td>
-          <td    >-</td>
-        </tr> 
-
-        <tr>
-          <td     ><b>Recent_Subjects</b> </td>
-          <td     id="height" ></td>
-          <td    >-.</td>
-        </tr> 
-        <tr>
-          <td      ><b>Industry_Experience</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >  software and project-trainee at YES-pay –international(UK-Based Company)-1.5 Yrs</td>
+          <td ><b>Industry_Experience</b></td>
+           <td id="height" ></td>
+          <td  colspan="2" >  software and project-trainee at YES-pay –international(UK-Based Company)-1.5 Yrs</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >-</td>
+           <td id="height" ></td>
+          <td  colspan="2" >-</td>
         </tr> 
         <tr>
-          <td      ><b>E-Mail id</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" ><a href="mailto:karamchandanimuskan@gmail.com">karamchandanimuskan@gmail.com
+          <td ><b>E-Mail id</b></td>
+           <td id="height" ></td>
+          <td  colspan="2" ><a href="#">-
 
 </a> </td>
         </tr>   
          
-         <tr>
-          <td ><b>Address</b></td>
-           <td  id="height" ></td>
-          <td  colspan="2" >Office address:
-                    International Institute Of Professional Studies
-                    Takshashila Campus, Khandwa Road
-                    Indore - 452001, INDIA</td>
-        </tr>  
+         
         <tr>
           <td ><b>Detailed Resume</b></td>
            <td id="height" ></td>
@@ -109,7 +92,7 @@
     <br/>
 
       <div id="membership" class="answer_list table-responsive">
-      <pre></pre>
+      <pre>-</pre>
       </div>
 
      <div id="research" class="answer_list" >
@@ -129,20 +112,20 @@
                 <td>1-13,2010</td>
                 <td> International Journal of Data Engineering (IJDE), Kuala Lumpur, Malaysia; ISSN:2180-1274, Refereed journal-Authors: Dr. Diwaker shukla, Dr. Rahul Singhai, Naresh-Dembla.
                 </td>
-                <td> "Some imputation methods to treat missing values in knowledge discovery in data warehouse, pp."
+                <td> "Some imputation methods to treat missing values in knowledge discovery in data warehouse, pp".
                 </td>
             </tr>
  
            <tr><td>2.</td>
                <td>December 20-22, 2012</td>
-               <td>nternational-Conference held on  Global Issues and Trends in Health, Management and Technology</td> 
+               <td>International-Conference held on  Global Issues and Trends in Health, Management and Technology</td> 
                <td> “E-BUSINESS AND  ELECTRONIC DATA INTERCHANGE”.
                </td>
             </tr>
              <tr><td>3.</td>
                 <td>December 20-22, 2012</td>
                 <td> International-Conference held  At IMS-DAVV; Nilesh Jain (Porwal), SDPS Women’s College, Indore; Naresh Dembla, International Institute of Professional Studies, DAVV, Indore; Kuntal L. Sharma, Usha Nagar, Indore.</td>
-                <td> "Global Issues and Trends in Health, Management and Technology"</td>
+                <td> "Global Issues and Trends in Health, Management and Technology".</td>
             </tr>
           </tbody>
         </table>
@@ -177,13 +160,13 @@
              <tr><td>3.</td>
                 <td>6-Aug-2012.</td>
                 <td> Prabhandan & Taqniki (Management Research Journal-LNCT-MER, Indore, M.P); ISSN-No.-0974-8563; Mr. Arpit Neema, Mr. Naresh Dembla, Ms. Kratika Neema, Ms. Swati Sood</td>
-                <td> "Impact of Online Shopping on consumer perspective: Empirical analysis in Indore city" </td>
+                <td> "Impact of Online Shopping on consumer perspective: Empirical analysis in Indore city". </td>
             </tr>
 
              <tr><td>4.</td>
                 <td>-</td>
                 <td> At IMS-DAVV; Nilesh Jain (Porwal) SDPS Women’s College, Indore; Naresh Dembla, International Institute of Professional Studies, DAVV, Indore; Kuntal L. Sharma, Usha Nagar</td>
-                <td> "GENERATING POSITIVE WORD OF MOUTH FOR RESTAURANTS IN TIER-2 CITIES”   </td>
+                <td> "GENERATING POSITIVE WORD OF MOUTH FOR RESTAURANTS IN TIER-2 CITIES”. </td>
             </tr>
           </tbody>
         </table>

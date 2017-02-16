@@ -18,7 +18,7 @@
       </td>
     </tr>
       <tr> 
-         <td    ><b>Designation</b></td>
+         <td ><b>Designation</b></td>
          <td id="height"> 
         <td >Associate Professor</td>
       </tr>
@@ -27,17 +27,7 @@
           <td id="height"    > 
         <td >-</td>
       </tr>
-        <tr>
-          <td  ><b>Current_Subjects</b></td>
-          <td id="height"    ></td>
-          <td >-</td>
-        </tr> 
-
-        <tr>
-          <td ><b>Recent_Subjects</b> </td>
-          <td id="height" ></td>
-          <td >-.</td>
-        </tr> 
+        
         <tr>
           <td  ><b>Industry_Experience</b></td>
            <td id="height" ></td>
@@ -54,16 +44,7 @@
            <td id="height" ></td>
           <td colspan="2" ><a href="mailto:keerti_vijay@rediffmail.com">keerti_vijay@rediffmail.com</a> </td>
         </tr>   
-         
-         <tr>
-          <td      ><b>Address</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >Office address:
-                    International Institute Of Professional Studies
-                    Takshashila Campus, Khandwa Road
-                    Indore - 452001, INDIA</td>
-        </tr>  
-        <tr>
+          <tr>
           <td  ><b>Detailed Resume</b></td>
            <td id="height" ></td>
           <td  colspan="2" >  <a="href=https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxraXJ0aXZpamF5dmFyZ2l5YWlpcHN8Z3g6NzAwNzRjNjFhMDY1YWQ0Mg" >Click here...</a> </td>
@@ -149,21 +130,16 @@
 </table>
       </div>
 
-         <div id="presentation"  class="answer_list" >
+  <div id="presentation"  class="answer_list" >
   <pre>
 * Presentations
 </pre>
-      </div>
-
-         <div id="publication" class="answer_list" >
+   </div>
+  <div id="publication" class="answer_list" >
   <pre>
 * Publications
 </pre>
-      </div>
-
-
-
-      </div>
+  </div>
 
       <script src="./js/faculty_profile.js"></script>
       <link href="css/profile.css" rel="stylesheet">

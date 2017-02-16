@@ -20,27 +20,14 @@
       <tr> 
          <td ><b>Designation</b></td>
          <td id="height"> 
-        <td      >Reader</td>
+        <td >Reader</td>
       </tr>
         <tr> 
         <td ><b>Specialization</b></td>
           <td id="height"    > 
-        <td >    Financial Management  
-    Corporate/Project Finance
-    Accounting for Managers
-    Management Accounting</td>
+        <td >    Financial Management,Corporate/Project Finance,Accounting for Managers,Management Accounting</td>
       </tr>
-        <tr>
-          <td><b>Current_Subjects</b></td>
-          <td id="height"    ></td>
-          <td>-</td>
-        </tr> 
-
-        <tr>
-          <td><b>Recent_Subjects</b> </td>
-          <td id="height" ></td>
-          <td >-</td>
-        </tr> 
+       
         <tr>
           <td ><b>Industry_Experience</b></td>
            <td id="height" ></td>
@@ -48,28 +35,20 @@
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >  91-731-2461888, 2462087, 2461332, 2760101</td>
+           <td id="height" ></td>
+          <td colspan="2" >  91-731-2461888, 2462087, 2461332, 2760101</td>
         </tr> 
         <tr>
-          <td      ><b>E-Mail id</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" ><a href="mailto:msitlani1@ yahoo.com">msitlani1@ yahoo.com, msitlani.iips@dauniv.ac.in
-</a> </td>
+          <td><b>E-Mail id</b></td>
+           <td id="height" ></td>
+          <td  colspan="2" ><a href="mailto:msitlani1@ yahoo.com">msitlani1@ yahoo.com, msitlani.iips@dauniv.ac.in </a> </td>
         </tr>   
          
-         <tr>
-          <td      ><b>Address</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >Office address:
-                    International Institute Of Professional Studies
-                    Takshashila Campus, Khandwa Road
-                    Indore - 452001, INDIA</td>
-        </tr>  
+         
         <tr>
-          <td      ><b>Detailed Resume</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkcm1hbmlzaHNpdGxhbmlpaXBzZGF2dnxneDo0ZTY1MTIyYWI2ZDU4YThm">Click here...</a> </td>
+          <td ><b>Detailed Resume</b></td>
+           <td id="height" ></td>
+          <td  colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkcm1hbmlzaHNpdGxhbmlpaXBzZGF2dnxneDo0ZTY1MTIyYWI2ZDU4YThm">Click here...</a> </td>
         </tr>  
       </table>
 

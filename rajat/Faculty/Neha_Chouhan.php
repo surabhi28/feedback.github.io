@@ -25,19 +25,9 @@
         <tr> 
         <td ><b>Specialization</b></td>
           <td id="height"    > 
-        <td -  </td>
+        <td> -  </td>
       </tr>
-        <tr>
-          <td ><b>Current_Subjects</b></td>
-          <td id="height"    ></td>
-          <td    >-</td>
-        </tr> 
-
-        <tr>
-          <td ><b>Recent_Subjects</b> </td>
-          <td   id="height" ></td>
-          <td >-</td>
-        </tr> 
+        
         <tr>
           <td ><b>Industry_Experience</b></td>
            <td  id="height" ></td>
@@ -45,25 +35,18 @@
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >-</td>
+           <td id="height" ></td>
+          <td  colspan="2" >-</td>
         </tr> 
         <tr>
-          <td      ><b>E-Mail id</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" ><a href="mailto:navneetbhatiya@gmail.com">navneetbhatiya@gmail.com
+          <td ><b>E-Mail id</b></td>
+           <td id="height" ></td>
+          <td  colspan="2" ><a href="mailto:navneetbhatiya@gmail.com">-
 
 </a> </td>
         </tr>   
          
-         <tr>
-          <td ><b>Address</b></td>
-           <td  id="height" ></td>
-          <td  colspan="2" >Office address:
-                    International Institute Of Professional Studies
-                    Takshashila Campus, Khandwa Road
-                    Indore - 452001, INDIA</td>
-        </tr>  
+         
         <tr>
           <td ><b>Detailed Resume</b></td>
            <td id="height" ></td>

@@ -25,48 +25,30 @@
         <tr> 
         <td ><b>Specialization</b></td>
           <td id="height"    > 
-        <td    >    Parallel Processing ,Mobile Computing, Operating  Systems, Object Oriented Programming using Java,
+        <td  >    Parallel Processing ,Mobile Computing, Operating  Systems, Object Oriented Programming using Java,
      Object Oriented Analysis and Design </td>
       </tr>
+        
         <tr>
-          <td    ><b>Current_Subjects</b></td>
-          <td id="height"    ></td>
-          <td    >-</td>
-        </tr> 
-
-        <tr>
-          <td     ><b>Recent_Subjects</b> </td>
-          <td     id="height" ></td>
-          <td    >-.</td>
-        </tr> 
-        <tr>
-          <td      ><b>Industry_Experience</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" > -.</td>
+          <td ><b>Industry_Experience</b></td>
+           <td id="height" ></td>
+          <td  colspan="2" > -.</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >-</td>
+           <td  id="height" ></td>
+          <td   colspan="2" >-</td>
         </tr> 
         <tr>
-          <td      ><b>E-Mail id</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" ><a href="mailto:manju_suchdeo@yahoo.co.in">manju_suchdeo@yahoo.co.in</a> </td>
+          <td  ><b>E-Mail id</b></td>
+           <td id="height" ></td>
+          <td  colspan="2" ><a href="mailto:manju_suchdeo@yahoo.co.in">manju_suchdeo@yahoo.co.in</a> </td>
         </tr>   
-         
-         <tr>
-          <td      ><b>Address</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >Office address:
-                    International Institute Of Professional Studies
-                    Takshashila Campus, Khandwa Road
-                    Indore - 452001, INDIA</td>
-        </tr>  
+          
         <tr>
-          <td      ><b>Detailed Resume</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >  <a href="https://docs.google.com/a/iips.edu.in/viewer?a=v&pid=sites&srcid=aWlwcy5lZHUuaW58bWFuanUtc3VjaGRlb3xneDo0MDJhNWFhZjA0OWExM2Y2" >Click here...</a> </td>
+          <td ><b>Detailed Resume</b></td>
+           <td id="height" ></td>
+          <td  colspan="2" >  <a href="https://docs.google.com/a/iips.edu.in/viewer?a=v&pid=sites&srcid=aWlwcy5lZHUuaW58bWFuanUtc3VjaGRlb3xneDo0MDJhNWFhZjA0OWExM2Y2" >Click here...</a> </td>
         </tr>  
       </table>
 
@@ -112,18 +94,18 @@
       </div>
 
      <div id="research" class="answer_list" >
-        <pre>Research interest of Prof. Manju sachdeo is Mobile Computing, 
-Parallel Computing and  Distributed Computing.
+        <pre>Research interest of Prof. Manju sachdeo is Mobile Computing,Parallel Computing 
+and  Distributed Computing.
 
 </pre>
       </div>
 
          <div id="responsibility" class="answer_list" >
          <table class="table table-striped ">
-            <tr><td> Program Incharge of M. Tech from July-2012</td></tr> 
-            <tr><td> Classroom teaching of MCA and M.Tech Courses </td></tr> 
+            <tr><td> Program Incharge of M. Tech from July-2012.</td></tr> 
+            <tr><td> Classroom teaching of MCA and M.Tech Courses. </td></tr> 
        <tr><td>Project Guide of MCA (PG and UG level) and M.Tech.(IT) Courses.</td></tr>
-   <tr><td>Time Table preparation and Tracking</td></tr>
+   <tr><td>Time Table preparation and Tracking.</td></tr>
    <tr><td>Coordinator of Comprehensive ViVa, Project Viva and Lab Viva of MCA , MTech (IT) .</td></tr>
    <tr><td>Grading Assignments, Checking examination copies.</td></tr>
     <tr><td>Organizing Expert talks , seminars, other academic  & cultural events in department.
@@ -154,7 +136,7 @@ Parallel Computing and  Distributed Computing.
       </tr>
       <tr>
         <td>Examination system(Analysis And Design part)</td>
-        <td> [ This project was aimed to automate the examination system of School of Computer Science with minimum intervention of human being]</td>
+        <td> [ This project was aimed to automate the examination system of School of Computer Science with minimum intervention of human being.]</td>
       </tr>
     </tbody>
 </table>

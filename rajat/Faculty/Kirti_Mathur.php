@@ -18,55 +18,37 @@
       </td>
     </tr>
       <tr> 
-         <td    ><b>Designation</b></td>
+         <td ><b>Designation</b></td>
          <td id="height"> 
-        <td      >Reader</td>
+        <td >Reader</td>
       </tr>
         <tr> 
-        <td    ><b>Specialization</b></td>
+        <td ><b>Specialization</b></td>
           <td id="height"    > 
-        <td    >System Analysis and Design, Operating System, System Programming.</td>
+        <td >-</td>
       </tr>
+        
         <tr>
-          <td    ><b>Current_Subjects</b></td>
-          <td id="height"    ></td>
-          <td    >Software Engineering & System Analysis and Design .</td>
-        </tr> 
-
-        <tr>
-          <td     ><b>Recent_Subjects</b> </td>
-          <td     id="height" ></td>
-          <td    >-.</td>
-        </tr> 
-        <tr>
-          <td      ><b>Industry_Experience</b></td>
-           <td     id="height" ></td>
+          <td ><b>Industry_Experience</b></td>
+           <td id="height" ></td>
           <td       colspan="2" > -.</td>
         </tr>
         <tr>
           <td valign="top"     ><b>Phone</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
+           <td id="height" ></td>
+          <td colspan="2" > +91-731-2470027 (O), +91-731-2364062(H), +919826623640.</td>
         </tr> 
         <tr>
-          <td      ><b>E-Mail id</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" ><i> "kir"<a href="http://www.google.com/recaptcha/mailhide/d?k=01wpreMGqu23gxDzQ9WvXIWg==&amp;c=Cfwdtf9Z8aLSpHpBbx4Fv1t0K9Acrbmy1AlknF3Zsz0=" title="Reveal this e-mail address" title="reveal this E-Mail">...</a>"gmail.com"
+          <td ><b>E-Mail id</b></td>
+           <td id="height" ></td>
+          <td  colspan="2" ><i> "kir"<a href="http://www.google.com/recaptcha/mailhide/d?k=01wpreMGqu23gxDzQ9WvXIWg==&amp;c=Cfwdtf9Z8aLSpHpBbx4Fv1t0K9Acrbmy1AlknF3Zsz0=" title="Reveal this e-mail address" title="reveal this E-Mail">...</a>"gmail.com"
           </i> </td>
         </tr>   
-         
-         <tr>
-          <td      ><b>Address</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >Office address:
-                    International Institute Of Professional Studies
-                    Takshashila Campus, Khandwa Road
-                    Indore - 452001, INDIA</td>
-        </tr>  
+        
         <tr>
-          <td      ><b>Detailed Resume</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxraXJ0aW1hdGh1cmlpcHNkYXZ2fGd4OjQyODU0YmY2NGY4NWVkNzc" >Click here...</a> </td>
+          <td ><b>Detailed Resume</b></td>
+           <td  id="height" ></td>
+          <td  colspan="2" >  <a href="https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxraXJ0aW1hdGh1cmlpcHNkYXZ2fGd4OjQyODU0YmY2NGY4NWVkNzc" >Click here...</a> </td>
         </tr>  
       </table>
 
