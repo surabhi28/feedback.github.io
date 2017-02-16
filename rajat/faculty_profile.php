@@ -19,12 +19,31 @@
     <link href="yamm/yamm.css" rel="stylesheet">
     <link href="css/footer.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <script src="https://ajax.gooogleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <style>
+      .content{
+        display:none;
+      }
+      .preload{
+        margin:0;
+        position: absolute;
+        top:50%;
+        left:50%;
+        margin-right: -50%;
+        transform:translate(-50% ,-50%);
+      }
+    </style>
   </head>
   <body>
+  <div class="preload">
+<img src="./images/loading.gif" />
+</div>
+<div class="content">
 <?php include 'header.php';?>
 </br>
 </br>
-<div class="container">
+
+<div class="container content">
   <div class="row">
     <div class="col-md-3" >
       <ul class="sidebar-menu">
@@ -115,11 +134,27 @@
 </br>
 </br>
 
+
+<div class="content">
+
+<?php include 'footer.php';?>
+</div>
+
+
   <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+   <script src="https://ajax.gooogleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="./js/faculty_profile.js"></script>
   <script src="./js/sidebar-menu.js"></script>
   <script>
     $.sidebarMenu($('.sidebar-menu'))
   </script>
+  <script>
+  $(function(){
+    $(".preload").fadeOut(2000,function(){
+      $(".content").fadeIn(1000);
+      
 
-<?php include 'footer.php';?>
+    });
+
+    });
+  </script>
