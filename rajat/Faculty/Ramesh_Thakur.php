@@ -27,17 +27,7 @@
           <td id="height"    > 
         <td    >Advance Computer Architecture, Embedded Systems, Advanced Database.</td>
       </tr>
-        <tr>
-          <td    ><b>Current_Subjects</b></td>
-          <td id="height"    ></td>
-          <td    >Software Testing & Q. A. .</td>
-        </tr> 
-
-        <tr>
-          <td     ><b>Recent_Subjects</b> </td>
-          <td     id="height" ></td>
-          <td    >Internet & Web Technology .</td>
-        </tr> 
+       
         <tr>
           <td      ><b>Industry_Experience</b></td>
            <td     id="height" ></td>
@@ -54,11 +44,7 @@
           <td       colspan="2" ><a href="mailto:sanjay_tanwani@hotmail.com">sanjay_tanwani@hotmail.com</a> </td>
         </tr>   
          
-         <tr>
-          <td      ><b>Address</b></td>
-           <td     id="height" ></td>
-          <td       colspan="2" > 58,Katja Colony,Near Collecterate,Indore </td>
-        </tr>  
+          
         <tr>
           <td      ><b>Detailed Resume</b></td>
            <td     id="height" ></td>

@@ -27,11 +27,7 @@
           <td id="height"> 
         <td>Marketing</td>
       </tr>
-        <tr>
-          <td    ><b>Current Subjects</b></td>
-          <td id="height"    ></td>
-          <td>Marketing Research<br/>Sales & Distributions Management (Minor)<br/>Sales & Distributions Management (Major)</td>
-        </tr> 
+         
 
         <tr>
           <td      ><b>Industry Experience</b></td>

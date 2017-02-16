@@ -29,17 +29,7 @@
             Gen Financial Management
             Management accounting</td>
       </tr>
-        <tr>
-          <td    ><b>Current_Subjects</b></td>
-          <td id="height"    ></td>
-          <td >-</td>
-        </tr> 
-
-        <tr>
-          <td     ><b>Recent_Subjects</b> </td>
-          <td     id="height" ></td>
-          <td    >-</td>
-        </tr> 
+       
         <tr>
           <td      ><b>Industry_Experience</b></td>
            <td     id="height" ></td>

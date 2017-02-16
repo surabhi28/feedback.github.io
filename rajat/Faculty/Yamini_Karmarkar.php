@@ -27,7 +27,7 @@
           <td id="height"> 
         <td>Management</td>
       </tr>
-        <tr>
+        <!--<tr>
           <td    ><b>Current Subjects</b></td>
           <td id="height"    ></td>
           <td>International Finance<br/>
@@ -37,7 +37,7 @@
               Security Analysis & Portfolio Management<br/>
               Financial Management<br/>
               Strategic Financial Management</td>
-        </tr> 
+        </tr> -->
 
         <tr>
           <td      ><b>Industry Experience</b></td>
