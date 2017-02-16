@@ -59,3 +59,4 @@ $('#mypublication').click(function() {
     // Animation complete.
   });
 });
+

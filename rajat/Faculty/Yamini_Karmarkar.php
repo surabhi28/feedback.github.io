@@ -141,8 +141,9 @@
     No Presentations to show</table>
       </div>
 
-         <div id="publication" class="answer_list" >
+         <div id="publication" class="answer_list "  style="height:200px; overflow-y: scroll;">
   <table class="table table-striped">
+  
     <tr><td>The Relationship between Stock Index and exchange rate: Empirical Evidencebased on Indian Stock Markets</td><td>March, 2002</td></tr>
     <tr><td>A study of market integration based on Indian Stock Market and Foreign Exchange market”</td><td>September, 2002</td></tr>
     <tr><td>Knowledge Management- A road from theory to practice</td><td>October, 2002</td></tr>
@@ -172,6 +173,7 @@
     <tr><td>Exchange Rate and Macro-Economic Indicators: A Causal Study for India</td><td>September, 2012</td></tr>
 <tr><td>Business Cycle Stages And Human Capital Cost – An Empirical Study Of Service Sector Companies In India</td><td>August, 2012</td></tr>    
 <tr><td>Awareness Of Financial Efficiency – A Flip Side Of MFI’s</td><td>August, 2012</td></tr>
+</tbody>
 </table>
       </div>
 
