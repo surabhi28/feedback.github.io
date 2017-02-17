@@ -71,25 +71,25 @@ Honorary Director on the Board of M/S Indo Power Cables Ltd. Ahemdabad</td>
            
       </div>
       
-      <div class="btn-group text-center">
+      <div class="btn-group text-center col-xs-6 col-md-2">
           <button type="button" id="myresearch" name="answer" onclick="ShowDiv()" class="btn btn-primary">Research Areas</a></button>
             
       </div>
-      <div class="btn-group text-center ">
+      <div class="btn-group text-center col-xs-6 col-md-2">
        
           <button type="button" id="myresponsibility" name="answer" onclick="ShowDiv()" class="btn btn-primary">Responsibilities</button>
          
       </div>
       
-      <div class="btn-group text-center">
+      <div class="btn-group text-center col-xs-6 col-md-2">
           <button type="button" id="myproject" name="answer" onclick="ShowDiv()" class="btn btn-primary">Projects</button>
          
       </div>
-      <div class="btn-group text-center">
+      <div class="btn-group text-center col-xs-6 col-md-2">
           <button type="button" id="mypresentation" name="answer" onclick="ShowDiv()" class="btn btn-primary">Presentations</button>
          
       </div>
-      <div class="btn-group text-center">
+      <div class="btn-group text-center col-xs-6 col-md-2">
           <button type="button" id="mypublication" name="answer" onclick="ShowDiv()" class="btn btn-primary">Publications</button>
         
       </div> 

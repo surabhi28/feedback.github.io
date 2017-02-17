@@ -1,6 +1,8 @@
 <div id="profileDiv" style="height:285px;">
 
-  
+  <br/>
+  <br/>
+  <br/>
 <center><img src="./images/ajax-loader.gif"></center>
 
       </div>
