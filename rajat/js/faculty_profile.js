@@ -1,6 +1,17 @@
 function faculty(name)
 	{
-		 $("#adder").load(name+".php");
+$.ajax({
+
+data: {name:name},
+beforeSend: function() {
+    $('#adder').load("./Faculty/ajax-loader.php");  
+  },
+success: function()
+  { 
+   $("#adder").load(name+".php");
+  }
+});
+		
 	}
 
 
@@ -9,6 +20,9 @@ function profile(name)
   $.ajax({
 
 data: {name:name},
+beforeSend: function() {
+    $('#adder').load("./Faculty/ajax-loader.php");  
+  },
 success: function()
   { 
   $("#adder").load("./Faculty/"+name+".php"); 
