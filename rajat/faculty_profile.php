@@ -39,8 +39,8 @@
 
 <div class="container content">
   <div class="row">
-    <div class="col-md-3" >
-      <ul class="sidebar-menu">
+    <div class="col-md-3" > 
+      <ul class="sidebar-menu" style="width:265px">
       <li class="sidebar-header" style="background-color:#0b3262; border:1px solid black;"><b>FACULTY PROFILE</b></li>
         
       <li  style="border:1px solid black;">
@@ -52,7 +52,7 @@
           <li><a href="#" onclick="profile('<?php echo 'Ramesh_Thakur';?>')"><img src="./images/male.jpg" img src="./images/male.jpg" class="icon">Dr. Ramesh Thakur</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Kirti_Mathur';?>')"><img src="./images/female.jpg" class="icon"></i>Dr. Kirti Mathur</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Jugendra_Dongre';?>')"><img src="./images/male.jpg" class="icon"></i>Mr. Jugendra Dongre</a></li>
-          <li><a href="#" onclick="profile('<?php echo 'Manju_Suchdev';?>')"><img src="./images/female.jpg" class="icon"></i>Ms. Manju Suchdeo</a></li>
+          <li><a href="#" onclick="profile('<?php echo 'Manju_Suchdeo';?>')"><img src="./images/female.jpg" class="icon"></i>Ms. Manju Suchdeo</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Shaligram_Prajapat';?>')"><img src="./images/male.jpg" class="icon"></i>Dr. Shaligram Prajapat</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Poonam_Mangwani';?>')"><img src="./images/female.jpg" class="icon"></i>Ms. Poonam Mangwani</a></li>
           <li><a href="#" onclick="profile('<?php echo 'Shailvi_Verma';?>')"><img src="./images/female.jpg" class="icon"></i>Ms. Shailvi Verma</a></li>
