@@ -41,7 +41,9 @@
         <tr>
           <td><b>E-Mail id</b></td>
            <td id="height" ></td>
-          <td  colspan="2" ><a href="mailto:msitlani1@ yahoo.com">msitlani1@ yahoo.com, msitlani.iips@dauniv.ac.in </a> </td>
+          <td colspan="2" ><i> msi<a href="http://www.google.com/recaptcha/mailhide/d?k=01Aa7BNB0EXrdeFdHYnuwDbQ==&c=0GM6k46Y3McSlVVLtFmGwTMQXfhfcXca3Qxpyi5vCts=" title="reveal this E-Mail">...</a>@yahoo.com
+          </i></td>
+
         </tr>   
          
          
@@ -90,17 +92,43 @@
     <br/>
 
       <div id="membership" class="answer_list table-responsive">
-      <pre> -</pre>
+     <table class="table table-striped">
+     No Membership to show
+     </table>
       </div>
       
      <div id="research" class="answer_list" >
         <table class="table table-striped">
+        No Researches to show
+        </table>
+      </div>
+
+         <div id="responsibility" class="answer_list" >
+          <table class="table table-striped">
+           Batch Facilitator
+           </table>
+         </div>
+
+         <div id="project" class="answer_list" >
+       <table class="table table-striped">
+        No Project to show
+       </table>
+      </div>
+
+         <div id="presentation"  class="answer_list" >
+         <table class="table table-striped">
+        No Presentation to show
+        </table>
+      </div>
+
+         <div id="publication" class="answer_list" style="height:200px; overflow-y: scroll;">
+             <table class="table table-striped">
           <thead>
             <tr>
               <th>S.No.</th>
               <th>Published Date </th>
-              <th>Research  </th>
-              <th>Topic</th>
+              <th>Research   </th>
+              <th>Area</th>
         
             </tr>
             </thead>
@@ -244,29 +272,7 @@
 
            </tbody>
       </table>
-      </div>
-
-         <div id="responsibility" class="answer_list" >
-         <pre>-</pre>
          </div>
-
-         <div id="project" class="answer_list" >
-  <pre>
-* Projects
-</pre>
-      </div>
-
-         <div id="presentation"  class="answer_list" >
-  <pre>
-* Presentations
-</pre>
-      </div>
-
-         <div id="publication" class="answer_list" >
-  <pre>
-* Publications
-</pre>
-      </div>
 
 
 

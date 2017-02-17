@@ -42,7 +42,8 @@
         <tr> 
           <td><b>E-Mail id</b></td>
            <td id="height" ></td>
-          <td colspan="2" ><a href="mailto:keerti_vijay@rediffmail.com">keerti_vijay@rediffmail.com</a> </td>
+         <td colspan="2" ><i> keer<a href="http://www.google.com/recaptcha/mailhide/d?k=01YQkHpxoCNjPMUUFnrncW3A==&c=rAKuuGuLjZzqxr0xw-1WSIw4thrCvNO7JME92vScu04=" title="Reveal this e-mail address" title="reveal this E-Mail">...</a>rediffmail.com
+          </i></td>
         </tr>   
           <tr>
           <td  ><b>Detailed Resume</b></td>
