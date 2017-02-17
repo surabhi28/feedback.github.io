@@ -3,7 +3,7 @@
   <br/>
   <br/>
   <br/>
-<center><img src="./images/ajax-loader.gif"></center>
+<center><img src="./images/ajax-loader.gif" style="box-shadow:none;"></center>
 
       </div>
 

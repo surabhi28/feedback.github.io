@@ -3,7 +3,8 @@ function faculty(name)
 $.ajax({
 
 data: {name:name},
-beforeSend: function() {
+beforeSend: function()
+  {
     $('#adder').load("./Faculty/ajax-loader.php");  
   },
 success: function()
@@ -20,7 +21,8 @@ function profile(name)
   $.ajax({
 
 data: {name:name},
-beforeSend: function() {
+beforeSend: function() 
+  {
     $('#adder').load("./Faculty/ajax-loader.php");  
   },
 success: function()
@@ -33,7 +35,7 @@ success: function()
 
 $('#mymembership').click(function() {
 	$('#research, #responsibility ,#project , #presentation , #publication').hide();
-  $('#membership').toggle('slow', function() {
+  $('#membership').show('slow', function() {
 	  
     // Animation complete.
   });
@@ -41,35 +43,35 @@ $('#mymembership').click(function() {
 
 $('#myresearch').click(function() {
 	$('#membership, #responsibility ,#project , #presentation ,#publication').hide();
-  $('#research').toggle('slow', function() {
+  $('#research').show('slow', function() {
     // Animation complete.
   });
 });
 
 $('#myresponsibility').click(function() {
 	$('#research, #membership ,#project , #presentation ,#publication').hide();
-  $('#responsibility').toggle('slow', function() {
+  $('#responsibility').show('slow', function() {
     // Animation complete.
   });
 });
 
 $('#myproject').click(function() {
 	$('#research, #responsibility ,#membership , #presentation ,#publication').hide();
-  $('#project').toggle('slow', function() {
+  $('#project').show('slow', function() {
     // Animation complete.
   });
 });
 
 $('#mypresentation').click(function() {
 	$('#research, #responsibility ,#project , #membership ,#publication').hide();
-  $('#presentation').toggle('slow', function() {
+  $('#presentation').show('slow', function() {
     // Animation complete.
   });
 });
 
 $('#mypublication').click(function() {
 	$('#research, #responsibility ,#membership , #presentation ,#project').hide();
-  $('#publication').toggle('slow', function() {
+  $('#publication').show('slow', function() {
     // Animation complete.
   });
 });
